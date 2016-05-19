@@ -1,0 +1,7 @@
+set terminal wxt persist
+binwidth = 0.005
+set boxwidth binwidth
+set xtics 0.05
+bin(x,width)=width*floor(x/width) + binwidth/2.0
+plot [0:1] [0:200] 'numbers.tmp' using (bin($1,binwidth)):(1.0) smooth freq with boxes
+
