@@ -1,0 +1,46 @@
+total ea: 567
+mentioning open(-)source/source(-)code: 50
+actually releasing something: 11
+
+raw-text/ea1208-hale.txt:The code is freely available under an open-source license at
+raw-text/ea1548-frisson.txt:We propose InspectorWidget, an opensource application to
+raw-text/ea3796-weissker.txt:under an open-source license at https://github.com/mmbuw/
+raw-text/ea1721-mcgookin.txt:Hajukone: Developing an Open Source
+raw-text/ea1729-pittman.txt:Source code available at https://github.com/ISUE/MultiWave/
+raw-text/ea2134-jaques.txt:mind, we have open-sourced the code for the BITxBIT web
+raw-text/ea2454-du.txt:tion Contest. Our 3D models, circuitry and the source code
+raw-text/ea3851-jazbec.txt:to the idMirror grid. The source code for the idMirror Android
+raw-text/ea3871-mendelowitz.txt:OpenPTrack[2] is an open-source, scalable, distributed,
+raw-text/ea4-heun.txt:openhybrid.org platform open source and freely
+raw-text/ea2766-apaolaza.txt:mated Behavioural Coding (ABC), an open source object
+
+total paper: 460
+mentioning open(-)source/source(-)code: 74
+
+raw-text/p1338-tian.txt:nation of the design, is all available open source. These files
+raw-text/p1996-gugenheimer.txt:code and building instructions as an open source platform. We
+raw-text/p791-lindlbauer.txt:is released as open-source at http://www.cg.tu-berlin.de/
+raw-text/p4647-fast.txt:in open source code [11] or design [20]. In Empath, we adapt
+
+raw-text/p4122-kaufman.txt:Tag, which is part of a free and open-source crowdsourcing
+raw-text/p487-luyten.txt:The Logue system is open source and available at
+raw-text/p5743-wang.txt:would like to construct a wiki page to share our source code
+
+raw-text/p4758-park.txt:geography, open source software, social-purpose work, and
+raw-text/p4806-harbach.txt:Open Source Project (AOSP) build and are instrumented to
+raw-text/p4896-shi.txt:an open-source online rapid prototyping sharing
+raw-text/p4979-disalvo.txt:public sentiment around issues in a city. Using open-source
+raw-text/p5274-desjardins.txt:open source, connected, and part of the IoT. With this
+raw-text/p5360-hogan.txt:open source framework, netCanvas1, built using many of the
+raw-text/p5409-badam.txt:ture and is available as open source1
+raw-text/p5444-adnan.txt:Comparison of open-source visual analytics toolkits. In
+raw-text/p5470-zagermann.txt:protocol similar to revision control systems for source code,
+raw-text/p5482-chi.txt:Tools that visualize different aspects of source code and
+raw-text/p5482-chi.txt:structure of source code in a tree structure. ASTs have been
+raw-text/p5482-chi.txt:column indices to the source code.
+raw-text/p5595-smeddinck.txt:S2 source code
+raw-text/p5595-smeddinck.txt:10. Jenova Chen. 2006. fl0w - source code. Retrieved
+raw-text/p5801-jalaliniya.txt:the open-source Haytham gaze tracking software 2
+raw-text/p5812-templier.txt:Erwin Frise, et al. 2012. Fiji: an open-source platform
+raw-text/p5849-perteneder.txt:cial solution, several DIY-projects and open source projects
+raw-text/p5996-gannon.txt:language at 60 FPS. It uses the following open-source
