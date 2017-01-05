@@ -1,5 +1,5 @@
-total ea: 567
-mentioning open(-)source/source(-)code: 50
+total extended abstracts: 567
+mentioning "open(-| )source" or "source(-| )code": 50
 actually releasing something: 11
 
 raw-text/ea1208-hale.txt:The code is freely available under an open-source license at
@@ -15,17 +15,12 @@ raw-text/ea4-heun.txt:openhybrid.org platform open source and freely
 raw-text/ea2766-apaolaza.txt:mated Behavioural Coding (ABC), an open source object
 
 total paper: 460
-mentioning open(-)source/source(-)code: 74
-actually releasing something:
+mentioning "open(-| )source" or "source(-| )code": 74
+actually releasing something: 6 (!)
 
 raw-text/p1338-tian.txt:nation of the design, is all available open source. These files
 raw-text/p1996-gugenheimer.txt:code and building instructions as an open source platform. We
 raw-text/p791-lindlbauer.txt:is released as open-source at http://www.cg.tu-berlin.de/
 raw-text/p4647-fast.txt:in open source code [11] or design [20]. In Empath, we adapt
 raw-text/p5409-badam.txt:ture and is available as open source1
-(?)
-raw-text/p4122-kaufman.txt:Tag, which is part of a free and open-source crowdsourcing
-raw-text/p487-luyten.txt:The Logue system is open source and available at
-raw-text/p5743-wang.txt:would like to construct a wiki page to share our source code
 raw-text/p5360-hogan.txt:open source framework, netCanvas1, built using many of the
-raw-text/p5595-smeddinck.txt:S2 source code
