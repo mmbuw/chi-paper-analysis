@@ -1,0 +1,1732 @@
+  Introduction
+  Reasoning About Users' Receptivity to Mobile Notifications
+  Data Collection
+  Dataset
+  Understanding Response Time
+  Why a Notification Becomes Disruptive
+  Understanding the Acceptance of Notifications
+  Does Personality Matter
+  Implications
+  Related Work
+  Limitations
+  Conclusions
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Related Work
+  Designing SimpleSpeech
+  Qualitative Evaluation
+  Quantitative Evaluation
+  Formality Comparison
+  Discussion
+  Conclusions
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Background
+  Scope
+  Study 1: Crossmodal mappings
+  Study 2: User Engagement
+  General Discussion & conclusions
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work
+  Evaluation
+  Implementation
+  Results
+  Discussion
+  Design Recommendations
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work
+  Online Survey
+  Perception Study
+  Discussion
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Background and Related Work
+  Methods
+  Explanations for Blackout Participation
+  Quantitative Findings
+  Limitations
+  Discussion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Prior Perspectives on Photo Permissions
+  Research Questions and Data Collection
+  User-Level Patterns in Sharing Practices
+  Photo-Level Patterns in Sharing Decisions
+  Developing a Model for Photo Sharing
+  Discussion
+  Conclusion
+  Acknowledgments
+  References
+  Introduction
+  Background
+  Methodology
+  Findings
+  Discussion
+  References
+  Introduction
+  Related Work
+  Data and Methods
+  Results
+  Discussion and Implications for Future Work
+  REFERENCES
+  Introduction
+  LITERATURE REVIEW
+  Method
+  Findings
+  DISCUSSION
+  CONSIDERATIONS FOR DESIGN
+  CONCLUSIONS
+  REFERENCES
+  Introduction and Motivation
+  Related Work
+  Focus-tunable Near-eye Display System
+  Evaluation
+  Discussion
+  Conclusion
+  REFERENCES
+  Introduction
+  Background
+  Implementation of VR-STEP
+  Evaluation
+  Discussion
+  Limitations & Future work
+  REFERENCES
+  Challenging the Car Norm: Opportunities for ICT to Support Sustainable Transportation Practices
+  ABSTRACT
+  INTRODUCTION
+  Related work And theoretical framework
+  Methods
+  Elements of a car-free life
+  Positive and negative experiences of the new practices
+  Opportunities for design and ICT to support sustainable (transportation) practices
+  Conclusion
+  Acknowledgements
+  References
+  1 Introduction
+  2 Related Work
+  3 OutsideTheBox
+  4 Annotated Portfolios Evolved - Design Exposès
+  5 Design Case Studies
+  6 Synopsis of Design Cases
+  7 Reflecting on Design Exposès
+  8 Conclusion
+  9 Acknowledgements
+  10 References
+  Introduction
+  related work
+  SYSTEM DESIGN AND IMPLEMENTATION
+  VALIDATION STUDIES
+  preliminary user study
+  flexible design exploration
+  conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Application Context
+  Related Work
+  Measuring Touch Individuality
+  Targeting Study
+  Results
+  Insights into Touch Targeting
+  Implications for Applications
+  Interface Evaluation
+  Summary and Discussion
+  Limitations
+  Conclusion and Future Work
+  REFERENCES
+  Introduction
+  Related Work
+  CalendarCast
+  Evaluation
+  Discussion & Outlook
+  Acknowledgments
+  References
+  Introduction
+  The SkullConduct System
+  Evaluation
+  Discussion and Limitations
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Literature
+  Scenario
+  Method
+  Results
+  Discussion
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work
+  Hypotheses
+  Method
+  Experiment 1: Visual Detail
+  Experiment 2: Facial Motion Magnitude
+  General Discussion
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Programming, Problem Solving, and Self-Awareness: Effects of Explicit Guidance
+  ABSTRACT
+  INTRODUCTION
+  THE APPROACH: PROBLEM SOLVING STAGES AND METACOGNITIVE PROMPTS
+  METHODS
+  RESULTS
+  DISCUSSION AND FUTURE WORK
+  Acknowlogements
+  REFERENCES
+  Introduction
+  Scaffidi and Chambers (2012)
+  Replication Using Full Dataset
+  Simulation: Replication Using Sample
+  Alternative Analysis: Within-User Estimates
+  Discussion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work
+  FingerIO
+  Implementation
+  Evaluation
+  Limitations and Future Directions
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  INTRODUCTION
+  Related Work
+  STUDY 1: COMFORT REGIONS
+  STUDY 2: BUTTON WIDGETS ON FINGERS
+  STUDY 3: STROKE GESTURES ON FINGERS
+  INTERFACE DESIGN CONSIDERATIONS
+  PROTOTYPE IMPLEMENTATION
+  CONCLUSION AND FUTURE WORK
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Related work
+  TECHNOLOGY PROBE: PARALLEL EYES
+  STUDY METHODOLOGY
+  Results
+  Design implication and Discussion
+  Conclusion
+  ACKNOWLEDGEMENTS
+  REFERENCES
+  Introduction
+  Background
+  Designing Accountable
+  Study Design
+  Findings
+  Discussion
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Bitcoin Fundamentals
+  Related Work
+  Method
+  Findings
+  Discussion
+  Conclusions
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Literature Review
+  Methodology
+  RESULTS
+  DISCUSSION
+  Conclusions
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work
+  Understanding Group Fitness Swimming
+  Game Design
+  Implementation
+  User Study
+  Discussion
+  Limitations and Future Work
+  Acknowledgment
+  References
+  Introduction
+  Scenarios
+  Related Work
+  Background
+  Method
+  Results
+  Discussion
+  Acknowledgements
+  REFERENCES
+  The Design of Assistive Location-based Technologies for People with Ambulatory Disabilities: A Formative Study
+  ABSTRACT
+  INTRODUCTION
+  Background and Related Work
+  Method
+  Data and Analysis
+  Findings
+  Discussion
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Related Work
+  Stereoscopic Algorithms
+  User Evaluations
+  Results
+  Discussion
+  Conclusion and Future Work
+  Acknowledgments
+  References
+  Introduction
+  Study
+  Discussion
+  Design recommendations
+  Conclusion
+  Project Data
+  REFERENCES
+  Introduction
+  Related Work
+  Study Setup & Methodology
+  Findings
+  Observed Activities in the Classroom
+  Role of the iPad in the Classroom
+  Discussion
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Prior Art in Spatial and Temporal Pointing
+  Overview and Derivation of the Model
+  Exp. 1: Blinking Task with Five Input Methods
+  Exp. 2: Visually Cued Temporal Pointing
+  Discussion
+  Acknowledgments
+  APPENDIX: Temporal Targets in Experiment 2
+  References
+  Introduction
+  Method
+  Results
+  Discussion
+  Conclusions and future work
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work
+  Goal of the study
+  Experimental Setup
+  Analysis
+  Results
+  Discussion
+  Future work
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Related Work
+  Experiment - The Panning UI
+  Discussion
+  Future Work
+  Conclusion
+  REFERENCES
+  Introduction
+  EyeSwipe
+  Experiments
+  Results
+  Discussion and Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Background
+  System Design
+  Design Trade-offs and Parameters
+  Evaluation
+  Discussion and Conclusions
+  REFERENCES
+  Introduction
+  Related Research
+  Aims & Challenges
+  Creating a real-life location data set
+  Data Representations: Simple and Replicable
+  Privacy & Geo-tag: Inferring types of location
+  Results & Analysis
+  Conclusion
+  Experiment Limitations
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Background & Related Work
+  Maximum-Likelihood Integration Theory
+  Design of incongruent environments
+  Experimental Investigation
+  Results
+  Discussion
+  Implications for VE design
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work and ``Bottom-up'' Game Elements
+  S1: Online Study
+  S2: Interview with Employees in Manufacturing
+  Prototype
+  S3: User Study with ``bottom-up'' Prototype
+  Conclusion and Future Work
+  Acknowledgment
+  REFERENCES
+  INTRODUCTION
+  RELATED WORK
+  MOTIVATION
+  OPERATIONALIZATION
+  EXPERIMENT
+  RESULTS
+  Discussion and Implications for Design
+  CONCLUSION
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Interactions Around Large Touch Displays
+  Study: Coupling and Interpersonal Distance
+  Implications for Future Research
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Background and Prior Work
+  Data
+  Methods
+  Results
+  Discussion
+  Conclusion
+  REFERENCES
+  Introduction
+  Background and Motivation
+  Data
+  Methods
+  Results
+  Discussion
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Related Work
+  miniStudio
+  Prototyping Walkthrough
+  Technical Implementation
+  User Study
+  Findings
+  Discussion and Future Work
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work
+  Method
+  The Haptic Wave Prototype
+  The Haptic Wave in the Wild
+  Discussion
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Related Work
+  Methodology
+  A Bird's Eye View of HCI4D
+  The Ground Covered
+  The Road Ahead
+  Contributions
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Related Work
+  System Architecture
+  Design Patterns
+  Implementation
+  Evaluation
+  Discussion
+  Acknowledgments
+  Appendix
+  REFERENCES
+  Introduction
+  Related Work
+  Clickstream Datasets
+  Unsupervised User Behavior Modeling
+  Evaluation: Cluster Labels
+  Evaluation: Case Studies
+  Evaluation: Cluster Quality
+  Conclusion & Future Work
+  References
+  Appendix – Implementation and Scalability
+  Introduction
+  Virtual 3D maze
+  Pilot study: validation of the induced workload level
+  EEG in practice
+  Main study: EEG as an evaluation method
+  Limitations and future challenges
+  Conclusion
+  REFERENCES
+  Introduction
+  System Design
+  First Experiment
+  Results
+  Follow-up Study
+  Discussion
+  Conclusion
+  REFERENCES
+  Introduction
+  Related Work
+  Do That, There
+  Experiment 1: ``There''
+  Experiment 2: ``Do That''
+  Experiment 3: ``Do That, There''
+  Overall Discussion
+  Conclusions
+  Acknowledgements
+  References
+  Introduction
+  Background
+  Pilot Study
+  Experiment
+  Discussion
+  Future Work
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  Introduction
+  System Overview
+  Study Design
+  Results
+  Discussion
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work
+  System Overview
+  User Study
+  Conclusion and Future Work
+  Acknowledgments
+  References
+  Introduction
+  Related Work
+  Augur
+  Augur API and Applications
+  Evaluation
+  Discussion
+  Conclusion
+  Acknowledgments
+  References
+  Introduction
+  The Assess MS Labelling Problem
+  Related Work
+  System Development
+  Evaluation
+  Discussion
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  ABSTRACT
+  INTRODUCTION
+  Related Work
+  TimeAware
+  Field Deployment Study
+  Result
+  Discussion
+  Conclusion
+  ACKNOWLEDGMENTS
+  REFERENCES
+  Introduction
+  Background and related Work
+  Research goals and expectations
+  Study 1: designing and coding motivational messages
+  Study 2: evaluating motivational messages
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work and Theoretical Background
+  Case Study: Freeletics
+  Ethical Considerations
+  Research Procedure
+  Step 1: TPB Pilot Study
+  Step 2: TPB Main Study
+  Step 3: Design Implications
+  Discussion
+  Limitations and Future Work
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Related Work
+  Modeling Interaction Patterns
+  Data Collection
+  Analysis of Visual Attention
+  Spatio-temporal modeling of visual attention
+  Results
+  Discussion
+  Conclusion
+  REFERENCES
+  Introduction
+  Related work
+  dataset overview
+  user classification
+  Results: original messages
+  Result: Amplification
+  Summary and Discussion
+  acknowledgement
+  References
+  Introduction
+  Background and Related Work
+  Data
+  Measurements
+  Characterizing Language on Abortion
+  Policy Projection by State
+  Discussion
+  Limitations
+  Future Work
+  Conclusion
+  REFERENCES
+  Introduction
+  Related Work
+  An exact test of significance for evaluating[-0.25em] the effect of study group on agreement rate
+  Software simulation
+  Coagreement between independent groups
+  Software tool: AGATe 2.0
+  Case studies
+  Conclusion and Future Work
+  Acknowledgments
+  REFERENCES
+  User Elicitation on Single-hand Microgestures
+  ABSTRACT
+  INTRODUCTION
+  RELATED WORK
+  USER STUDY
+  RESULTS
+  IMPLICATIONS FOR DESIGN
+  LIMITATIONS
+  FUTURE WORK
+  CONCLUSION
+  REFERENCES
+  Introduction
+  Related Work
+  Case Study: Articulation in Music Conducting
+  User Study
+  Results
+  Discussion and Limitations
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related and Prior Work
+  Defining Interactive Narrative Roles and RPGs
+  Study Design
+  Validation Phase
+  Experiment Phase
+  Analysis and Results
+  Discussion
+  Conclusions and Future Work
+  Acknowledgements
+  REFERENCES
+  Scaffolding Player Location Awareness through Audio Cues in First-Person Shooters
+  Abstract
+  Introduction
+  Related Literature
+  Study 1: Determining Expert Behavior
+  Study 2: Helping Novices Leverage Audio Cues
+  General Discussion
+  Limitations and Future Work
+  Conclusion
+  Acknowledgements
+  References
+  Using an International Gaming Tournament to Study Individual Differences in MOBA Expertise and Cognitive Skills
+  ABSTRACT
+  INTRODUCTION
+  METHOD
+  Results
+  discussion
+  Conclusion
+  ACKNOWLEDGMENTS
+  REFERENCES
+  Introduction
+  Related Work
+  Code Structure
+  Prototype
+  Experiment
+  Limitations and Future Work
+  Summary
+  REFERENCES
+  Introduction
+  Augmented Eye-Typing
+  General Method
+  Experiment 1: AugKey NoWP
+  Experiment 2: AugKey WP NoWP
+  General Discussion
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  ThoughtCloud: Exploring the Role of Feedback Technologies in Care Organisations
+  ABSTRACT
+  INTRODUCTION
+  BACKGROUND
+  SCOPING THE DESIGN SPACE
+  Field Trials
+  findings
+  discussion
+  Conclusion
+  ACKNOWLEDGEMENTS
+  references
+  Introduction
+  Related Work
+  Methodology
+  Results
+  Discussion
+  Recommendations
+  Conclusions
+  Acknowledgment
+  References
+  Introduction
+  Related Work
+  Studying Perceptual Similarity of Plots
+  Study Design
+  Results and Findings
+  Implications
+  Conclusion and Future Work
+  REFERENCES
+  Introduction
+  Related Work
+  Graph Comic Example
+  Design Process
+  Design Factors for Graph Comics
+  Reading Study
+  Discussion and Future Work
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Direct Manipulation for Tactile Displays
+  DMT in Current Tactile Space
+  Proof of Concept
+  Study I: Movement & Target Distinction
+  Study II: A Performance Model for DMTs
+  Study III: A Tactile Menu Application
+  Discussion
+  Conclusion
+  Acknowledgments
+  References
+  Abstract
+  Introduction
+  Related Work
+  Haptic Edge Displays
+  Implementation
+  Demonstration Applications
+  Evaluation
+  Discussion and Future Work
+  Conclusion
+  Acknowledgements
+  References
+  Introduction
+  Related Work
+  SnapApp Concept
+  SnapApp Security
+  User Study
+  Results
+  Limitations
+  Discussion
+  Conclusion and Future Work
+  REFERENCES
+  Introduction
+  Background and Related Work
+  Methodology
+  Results
+  Discussion and Conclusions
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related work
+  TableHop Overview
+  Enabled applications
+  DESIGN PARAMETERS
+  Evaluation of Implementation
+  Discussion
+  Conclusions
+  Acknowledgments
+  References
+  Introduction
+  Background
+  Emergeables: Concept and Design Space
+  Prototypes
+  Experiment
+  Results
+  Discussion
+  Conclusion
+  Acknowledgments
+  ACM Classification Keywords
+  Introduction
+  Related Work
+  Computational Sensor Design
+  Recovering User Input
+  Materials, Fabrication and Calibration
+  Results
+  Limitations
+  Conclusion
+  REFERENCES
+  Discussion of Materials and Fabrication
+  Introduction
+  Related Work
+  System
+  User Study
+  User Study Results
+  Discussion
+  Conclusions And Future Work
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Related Work
+  The WearWrite System
+  WearWrite Deployment
+  Results
+  Discussion
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Background and Hypotheses
+  Method
+  Results
+  Discussion
+  Conclusions
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Background
+  Method
+  Results
+  Discussion
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work
+  Method
+  Results
+  Discussion
+  Self-Evaluation of Co-design of Researchers and Teenagers
+  Conclusion and Future Work: Measuring the Effectiveness of Cyberbullying Mitigation Solutions
+  Acknowledgements
+  References
+  Introduction
+  Related Work
+  Approach
+  Obtaining Landmarks and Spatial Properties
+  Generating Analogies Using Energy Functions
+  Application
+  Evaluation: User Study
+  Discussion and Future Work
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Related Work
+  Goals and Research Approach
+  Method
+  Data Collection and Coding
+  Data Analysis
+  Observations of the Design Process
+  Main Findings and Implications
+  Conclusions and Future Work
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Background
+  Experiment
+  Results
+  Discussion
+  Conclusion
+  Introduction
+  Experiment Design
+  Results
+  Discussion
+  Conclusion
+  Acknowledgments
+  References
+  Introduction
+  Related Work
+  Design Process
+  Field Deployment
+  Discussion
+  Limitations
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Motivating Scenario
+  Related Work
+  Design Goals and Principles
+  Design Process
+  The iVoLVER Visual Language
+  Implementation
+  Scenarios
+  Discussion
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Background
+  Operationalizing Curiosity
+  Study Design
+  Q1: Can Crowds be Motivated by Curiosity?
+  Q2: How do individuals respond differently to curiosity interventions?
+  Q3: What are the Interactions between Task Characteristics and Curiosity Interventions?
+  Discussion
+  Conclusion
+  REFERENCES
+  We Need Numbers! - Heuristic Evaluation during Demonstrations (HED) for Measuring Usability in IT System Procurement
+  ABSTRACT
+  Introduction
+  Research Background
+  Our Method: Heuristic Evaluation During Demonstrations (HED)
+  Applying the HED Method: Case CAPIS
+  Analysis and Evaluation of Results
+  Discussion
+  Conclusion
+  ACKnowledgements
+  References
+  Introduction
+  Related Work
+  Systematic Assessment of Feasibility
+  Design
+  Evaluation
+  Discussion
+  Conclusions and Future Work
+  Acknowledgement
+  REFERENCES
+  Introduction
+  Background
+  Travel Agent Study
+  Exercise Recommender Study
+  Discussion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Motivation and Related Work
+  Design principles
+  DESIGN CONCEPT
+  Interaction Scenarios
+  Evaluation
+  Results
+  Discussion
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work
+  HOTFLEX
+  PRIMITIVES AND FUNCTIONAL PATTERNS
+  VALIDATION
+  DISCUSSION AND LIMITATIONS
+  CONCLUSION
+  Acknowledgments
+  REFERENCES
+  Project Jacquard: Interactive Digital Textiles at Scale
+  ABSTRACT
+  INTRODUCTION
+  Background and Related Work
+  Project Jacquard
+  Jacquard yarn
+  Jacquard yarn Engineering
+  Jacquard weaving and Textiles
+  Connectivity and electronics
+  applications OF JACQUARD
+  experimental evaluations
+  Conclusions
+  Acknowledgment
+  REFERENCES
+  INTRODUCTION
+  DESIGNING SPHERICAL MAGNETIC TANGIBLES
+  EXPLORATIVE STUDY
+  INTERACTING WITH PHYSICAL CONSTRAINTS
+  CONCLUSION
+  ACKNOWLEDGMENTS
+  REFERENCES
+  INTRODUCTION
+  DESIGNING MAGNETIC RFID TAG SENSING SYSTEMS
+  WORKSHOP
+  USER FEEDBACK AND DISCUSSIONS
+  CONCLUSION AND FUTURE WORK
+  ACKNOWLEDGMENTS
+  REFERENCES
+  Introduction
+  Related Work
+  Study 1: Target Selection
+  Study 2: Performance and Preference
+  Study 2, Experiment 1: Target Pointing
+  Study 2, Experiment 2: Object Dragging
+  Study 2, Experiment 3: Object Scaling
+  Study 2, Experiment 4: Object Rotation
+  Discussion and Design Applications
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work: Studies of Typing
+  Method
+  Data Analysis
+  Results
+  Clustering of Movement Strategies
+  Discussion
+  Conclusion
+  The HOW-WE-TYPE Dataset
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work
+  FINGER-AWARE SHORTCUTS
+  Experiment 1: Formative Study
+  Implementation
+  Experiment 2: Comparison with Shortcut Keys
+  Application Demonstrations
+  Conclusion and Future Work
+  REFERENCES
+  Introduction
+  Related Work
+  Secure Email
+  Methodology
+  Results
+  Discussion
+  Conclusion
+  REFERENCES
+  Introduction
+  Related Work
+  Our Approach
+  Experiments
+  Discussion
+  Conclusion
+  Acknowledgments
+  References
+  Introduction
+  Threat Model
+  Concept and Pre-Study
+  User Study
+  Discussion and Limitations
+  Conclusion and Future Work
+  REFERENCES
+  Introduction
+  Background
+  Research Approach
+  H1: Proficiency increases performance
+  H2: Congruency increases performance
+  H3: Expert responsiveness to dilemma
+  Discussion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work
+  Formative Study: Uses, Preferences & Needs of Visually Impaired Children & Caretakers
+  Mappie: first interactive map prototype
+  MapSense: second interactive map prototype
+  Discussion
+  Conclusion
+  REFERENCES
+  Introduction
+  Related Work
+  Field Study Design
+  Findings
+  Discussion
+  Conclusion
+  Acknowledgement
+  REFERENCES
+  Introduction
+  Related Works
+  Data Description
+  Stress Inference from Physiological Data
+  Reducing The Impact of Confounding Factors
+  Missing Data Imputation
+  Field Validation of Stress Assessment
+  Locating Stressful Episodes
+  Applications of Our Model
+  Discussion, Limitations, and Future Work
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work
+  Method
+  Results
+  Discussion
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Background
+  Experimental Simulation of Crowdfunding
+  Results
+  Discussion
+  Acknowledgements
+  REFERENCES
+  Object-Oriented Drawing
+  ABSTRACT
+  INTRODUCTION
+  related worK
+  Attribute Objects
+  Expert review
+  Discussion
+  Future work
+  Conclusion
+  ACKNOWLEDGMENTS
+  REFERENCES
+  Introduction
+  Designing (Library) Search Interfaces
+  Research Background
+  CollectionDiver: Design & Functionality
+  Public Library Study
+  General Approaches to Media Search
+  Experienced Differences between the Systems
+  Discussion
+  Conclusion
+  acknowledgements
+  REFERENCES
+  Introduction
+  Related Work
+  Empath Applications
+  Empath
+  Evaluation
+  Discussion
+  Conclusion
+  Acknowledgments
+  References
+  Peek-a-View: Smartphone Cover Interaction for Multi-tasking
+  ABSTRACT
+  INTRODUCTION
+  PEEK-a-view
+  Feasibility STUDY of Cover-CLosed interaction
+  IN-depth comparative user study
+  DISCUSSION
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  Faster Command Selection on Touchscreen Watches
+  Abstract
+  Introduction
+  Related Work
+  Design of WristTap and TwoTap
+  Study 1: Grid Size Impact on Performance
+  Study 2: Learning and Performance with Overloaded Item Locations
+  Study 3: Empirical Evaluation
+  Discussion
+  Conclusion and Future Work
+  Acknowledgments
+  References
+  Introduction
+  Related Work
+  Studies: Designing Prompts & Anomalies
+  Discussion & Limitations
+  REFERENCES
+  Introduction
+  Background and Related Work
+  Scenario-Based Design for Non-Places
+  Journeys & Notes System Design
+  User Studies
+  Large Scale Field Deployment
+  Discussion
+  References
+  Introduction
+  Dashcam Overview
+  Related Work
+  Study 1
+  Study 2
+  Discussion
+  Design Implications
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work
+  Study 1: Evaluating Dual-screen Complexity
+  Compensating for Dual-screen Complexity
+  Study 2: Second Screen Adjustment Study
+  Design Considerations and Further Work
+  Conclusions
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Related Work
+  Research Goals and Methodology
+  Results
+  Analysis
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work
+  Method
+  Results
+  Discussion
+  Limitations
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Related Work
+  User Study
+  Results and Analysis
+  Discussions
+  Conclusion and Limitations
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Method
+  Results
+  Discussion
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Motivation and Illustrative Scenarios
+  Related Work
+  A Visual Language for Peripheral Near-Eye Out-of-Focus Displays
+  Study
+  Results of the Study
+  Discussion
+  Conclusion
+  Acknowledgments
+  References
+  Introduction
+  Related Work
+  Applying Behavioural Economics Methods
+  User Study
+  Results
+  Discussion
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  Introduction
+  System Overview
+  Related Work
+  Reverse Synthetic Aperture RFID
+  Probabilistic ID-Body Correlation
+  ID Association Algorithm
+  Performance and Evaluation
+  HRI and Occupancy Tracking Studies
+  Conclusion
+  REFERENCES
+  Introduction
+  Related Work
+  Study 1: Online Video Prototype Study
+  Study 2: Behavioral Lab Study
+  Discussion
+  Limitations
+  Future Work
+  Conclusions
+  REFERENCES
+  Introduction
+  Related Work
+  Analytical Questions
+  EgoLines
+  Controlled Study
+  Use-Case Scenario
+  Discussion
+  Conclusion and Future Work
+  Acknowledgment
+  REFERENCES
+  Introduction
+  Related Work
+  Study
+  Discussion and Conclusions
+  REFERENCES
+  Introduction
+  Design and Implementation of a Group Mirror
+  Description of the Experiment
+  Results & Discussion
+  Summary & Future Work
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work
+  Visualizations and Evaluation Method
+  Results
+  Discussion
+  Conclusion and Future Work
+  REFERENCES
+  Introduction
+  Contribution Statement
+  Background and Related Work
+  Windshield Display Applications
+  Design Space
+  Using the Design Space
+  Discussion and Limitations
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction and Background
+  The Effect of Focus Cues
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Related Work
+  Personalized Compass
+  User Study
+  Results
+  Discussion
+  Conclusions and Future Work
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Related Work
+  Challenges and Key Approach
+  Implementation
+  Evaluation
+  Discussion
+  Conclusion
+  REFERENCES
+  INTRODUCTION
+  RELATED WORK
+  DESIGN RATIONALE
+  DESIGN SPACE
+  INTERACTION TECHNIQUES
+  IMPLEMENTATION DETAILS
+  APPLICATIONS
+  DISCUSSION & LIMITATIONS
+  CONCLUSIONS AND FUTURE WORK
+  ACKNOWLEDGEMENTS
+  REFERENCES
+  Evaluation of a Smart-Restorable Backspace Technique to Facilitate Text Entry Error Correction
+  ABSTRACT
+  INTRODUCTION
+  Related Work
+  The Smart-Restorable Backspace
+  Study Setup
+  A Pilot Study
+  Improved Smart-restorable backspace
+  A User Study
+  Results
+  Discussion
+  Conclusion And Future Work
+  ACKNOWLEDGMENTS
+  REFERENCES
+  Introduction
+  Related Work
+  Proposed Remote Collaboration Framework
+  Implementations
+  User Study 1: Assembling Target Objects under Fixed Device Scenario
+  User Study 2: Object Identification under Wearable Device Scenario
+  User Study 3: Arranging Showcases of Brochures under Wearable Device Scenario
+  Discussion
+  Limitation
+  Conclusions and Future Work
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Background
+  Related Work
+  Overarching Goals and Research Questions
+  Common Terminology and GC-Manipulations
+  Replicability
+  Statistical Approach
+  Experiment 1 — Color Matching
+  Experiment 2 — Color Sorting
+  General Discussion
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Previous Work
+  Overlays: Design and Implementation
+  The Calibration Study
+  Study 1: Recall
+  Study 2: Comprehension
+  Study 3: Lookup Performance
+  Summary and Future Work
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Related Work
+  Study Goal and Methodology
+  Results
+  Discussion
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  Introduction and Related Work
+  Awareness and Passwords
+  Updating
+  Securement
+  Discussion
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Background
+  SmartThermo in the Wild
+  Findings
+  Discussion
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Background and Related Work
+  Methodology
+  Results
+  Discussion
+  Conclusion
+  acknowledgements
+  REFERENCES
+  Introduction
+  Related Work
+  Formative study: Arranging desktop devices
+  The LivingDesktop
+  Proof-of-Concept
+  Applications
+  Scenario Evaluation
+  Discussion
+  Conclusion
+  Acknowledgement
+  REFERENCES
+  1 Introduction
+  2 Related work: data-driven personas
+  3 Telemetry and Clickstreams
+  4 Constructing Personas
+  5 Five Personas via Hierarchical Clustering and Mixed Models
+  6 Discussion and Future Work
+  7 Acknowledgments
+  8 References
+  Introduction
+  Related Work
+  Design goals: a hybrid approach
+  Research hypotheses
+  Methods
+  Results
+  Discussion
+  Conclusions
+  Acknowledgements
+  References
+  Introduction
+  Related Work
+  Experimental Design
+  Experimental Setup
+  Evaluation of Dependent Variables
+  Results
+  Discussion
+  Future Work
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work
+  The #Scanners Film
+  Studying #Scanners
+  Discussion
+  Conclusions
+  Acknowledgements
+  References
+  Introduction
+  Background
+  TimeFork: Interactive Visual Prediction
+  TimeFork for Stock Data
+  User Study
+  Results and Observations
+  Design Implications
+  Application Scenarios
+  Conclusion and Future Work
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Phishing Attacks and Countermeasures
+  User Study
+  Discussion
+  Deployment Aspects
+  Related Work
+  Conclusion
+  References
+  Investigating Time Series Visualisations to Improve the User Experience
+  ABSTRACT
+  INTRODUCTION
+  RELATED WORK
+  USER STUDY
+  RESULTS
+  DISCUSSION
+  LIMITATIONS AND FUTURE WORK
+  CONCLUSION
+  REFERENCES
+  Introduction
+  Related Work
+  Study
+  Data Analysis
+  Findings & Discussion
+  Limitations
+  Implications for Future Research
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Related Work
+  Cross-Device Interfaces with XDBrowser
+  XDBrowser Implementation
+  Study Design
+  Results
+  Discussion
+  Conclusion
+  REFERENCES
+  Introduction
+  Background
+  Deception in mediated social situations
+  Study Design
+  Results
+  Discussion
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Bayesian Optimization
+  Experiments
+  Discussion
+  Acknowledgments
+  REFERENCES
+  Crumbs: Lightweight Daily Food Challenges
+  to Promote Engagement and Mindfulness
+  ABSTRACT
+  INTRODUCTION
+  Background and motivation
+  System design
+  Crumb development and selection
+  field study of LIGHTWEIGHT DAILY FOOD CHALLENGEs
+  Field Study Results
+  Discussion
+  Conclusion
+  Acknowledgments
+  References
+  Introduction
+  Background
+  Methods
+  Results
+  Discussion
+  References
+  Introduction
+  Methods
+  Results
+  Discussion
+  Acknowledgments
+  References
+  Introduction
+  Motivation
+  Related Work
+  System
+  Case Study: Predicting Diabetes
+  Conclusion and Discussion
+  References
+  Introduction
+  Maintain Abstinence in Daily Life
+  KeDiary Design & Implementation
+  Preliminary Feasibility Study
+  Conclusion
+  REFERENCES
+  Introduction
+  Related Work
+  Methods
+  Findings
+  Implications for Design
+  Conclusion
+  REFERENCES
+  Influence of Content Layout and Motivation on Users’ Herd Behavior in Social Discovery
+  ABSTRACT
+  INTRODUCTION
+  literature review and hypotheses
+  Research method
+  results and analysis
+  Conclusion and future work
+  ACKNOWLEDGMENTS
+  REFERENCES
+  Introduction
+  Aging and Search Strategies
+  Research Questions
+  Experiment
+  Conclusions and Discussion
+  Implications for System Design
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work
+  Methods & Dataset
+  Analysis & Results
+  Discussion, Design Implications & Future Work
+  Conclusion
+  Acknowledgments
+  References
+  Introduction
+  Background
+  Design Space
+  Determining Selection Range
+  Applications
+  Evaluation of Applications
+  Discussion
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work
+  The EyeGrip Method
+  Experimental design
+  Design guidelines
+  Potential applications
+  Usability studies
+  Discussion & Conclusions
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Related Work
+  Research Questions
+  System Design
+  Study Method
+  Results
+  Discussion
+  Further Work
+  Conclusion
+  References
+  Introduction
+  Related Work
+  Experiment
+  Results
+  Discussion
+  Conclusions
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Related Work
+  Technical Overview
+  Custom Tag Fabrication
+  Signal Detection
+  Interaction Methods and Primitives
+  Applications
+  Evaluation
+  Conclusion
+  REFERENCES
+  Introduction
+  System Overview And Motivating Example
+  Probabilistic Formulation
+  Developer API
+  Standard Component Library
+  Example Applications
+  Conclusion
+  REFERENCES
+  Introduction
+  Technology Probes and Derived Requirements
+  System Design
+  Validation
+  Discussion
+  Related Work
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Integrating the Smart Home into the Digital Calendar
+  ABSTRACT
+  INTRODUCTION AND BACKGROUND
+  RELATED WORK
+  DESIGNING SMART HOME INTERFACES
+  DESIGN AND IMPLEMENTATION OF CASALENDAR
+  FIELD-RESEARCHED CASE STUDY
+  FINDINGS
+  DISCUSSION AND IMPLICATIONS
+  CONCLUSION
+  ACKNOWLEDGEMENTS
+  REFERENCES
+  Introduction
+  Related Work
+  Design
+  User Study
+  Discussion and Future Work
+  References
+  Introduction
+  Related Work
+  Exploratory User Study
+  User study to Clarify how novice older adults make input stumbles
+  System Design of Typing Tutor
+  Experiment to improve Typing Tutor
+  Two-week evaluation experiment
+  Discussion
+  Limitations and future work
+  Conclusion
+  REFERENCES
+  Introduction
+  Background
+  Method of Pmomo
+  Evaluation
+  Tracking without AHRS sensor
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Related Work
+  Combining shape-changing interfaces withspatial augmented reality
+  Matching physical and virtual shapes
+  View-dependent shape change
+  Implementation
+  Applications
+  First user experiences
+  Discussion and future work
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Background
+  Interface Assertiveness
+  Experiment
+  Results
+  Discussion
+  Conclusions & Future Work
+  What you Sculpt is What you Get: Modeling Physical Interactive Devices with Clay and 3D Printed Widgets
+  ABSTRACT
+  INTRODUCTION
+  Design Process
+  Finding Fiducial Markers
+  Finding Widget Placements
+  Recovering WIdget Type and Orientation
+  Modeling Widgets
+  Creating A Housing for the PRototype
+  Examples
+  A Widget SET
+  Related Work
+  Summary and Future Work
+  acknowledgements
+  REFERENCES
+  Introduction
+  Related Work
+  Creative Design Framework
+  Prototype and Results
+  Limitations, Conclusions and Future Work
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work
+  Ingenium
+  Experiment
+  Discussion, Future Work & Conclusion
+  REFERENCES
+  Introduction
+  Related Work
+  Game design
+  Field Study
+  Results and discussion
+  Limitations
+  Conclusions and future work
+  References
+  Introduction
+  Designing Interactive Tutorial
+  Evaluation
+  Discussion and Conclusion
+  Acknowledgement
+  REFERENCES
+  INTRODUCTION
+  BACKGROUND AND RELATED WORK
+  PRELIMINARY STUDY ON SMARTPHONE DISTRACTION IN GROUP ACTIVITIES
+  DESIGN OF LOCK N' LOL
+  LOCK N' LOL EVALUATION
+  DISCUSSION AND CONCLUSION
+  ACKNOWLEDGEMENTS
+  References

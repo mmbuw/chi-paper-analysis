@@ -1,0 +1,1398 @@
+  Introduction
+  Related Works
+  Interaction Workflow
+  The Phonetic Alphabet
+  Preliminary Study
+  Evaluation Study
+  Discussion and Future Work
+  Conclusion
+  References
+  Permission to make digital or hard copies of part or all of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the ful...
+  Abstract
+  Author Keywords
+  ACM Classification Keywords
+  Introduction
+  References
+  Permission to make digital or hard copies of part or all of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the ful...
+  Abstract
+  Keywords
+  Carol Farnsworth
+  Karen Holtzblatt
+  ACM Classification Keywords
+  K.7 The Computing Profession; K.7.2 Organizations
+  Introduction
+  In But Then Out
+  Great strides have been made in opening doors for underrepresented populations to work in high tech companies. But what happens beyond those doors still hampers retention and advancement.
+  Challenges Working Against Maintaining Diversity
+  References
+  Abstract
+  Author Keywords
+  ACM Classification Keywords
+  Motivation
+  What is Transparent Statistics?
+  How to Move Towards Transparent Statistics?
+  HCI Can Help Statistics!
+  Conclusion
+  References
+  Abstract
+  Author Keywords
+  ACM Classification Keywords
+  H.5.2 User Interfaces
+  Introduction
+  Brian D. Hall
+  Background and Previous Work
+  Hypotheses
+  Method
+  Results
+  Discussion
+  Limitations and Future Work
+  References
+  Introduction
+  Related Work
+  Preliminary Survey
+  LockDoll Design
+  Pilot Study and Design Issues
+  Future Work
+  Acknowledgement
+  References
+  Introduction
+  Using Common-Ground Removal to Improve Code Re-Use Detection
+  Measurements
+  Results
+  Conclusion
+  Introduction
+  Background
+  Methods
+  Findings
+  Conclusions and Future Work
+  References
+  Introduction
+  Data and methods
+  Results
+  Discussions
+  Acknowledgements
+  References
+  Introduction
+  Background
+  Capacitor Lab: Basics
+  Challenge: Designing for Vision Impairment
+  Research Design: Interviews
+  Results: Learning Physics
+  Technical Challenges
+  Future Work: Sonification
+  Conclusion
+  References
+  Introduction
+  Team Dating Overview
+  Preliminary Results
+  Discussion and Further work
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Background
+  Experimental Setup
+  Results
+  Discussion
+  Conclusion and Future Work
+  Acknowledgements
+  References
+  Introduction
+  Methodology
+  Preliminary Results
+  Discussion and Conclusion
+  REFERENCES
+  Introduction
+  Background
+  Methodology
+  Results
+  Discussion
+  Conclusion
+  Acknowledgements
+  References
+  Introduction
+  Daily Energy Message smartphone application
+  Trial
+  Initial results
+  Discussion and future research
+  Conclusion
+  References
+  Introduction
+  Approach
+  Main Study
+  Results
+  Conclusion
+  REFERENCES
+  Context
+  An Idea Emerges
+  Proposing the Dial
+  Conversations with the Box
+  Outcomes
+  Computational Strangeness
+  Discussion
+  Future Work
+  Acknowledgments
+  REFERENCES
+  Introduction and Related Work
+  The Production Pipeline
+  Practical Considerations
+  Discussion and Future Work
+  Acknowledgements
+  References
+  Introduction
+  Survey
+  Results
+  Qualitative Findings
+  Discussion
+  Conclusion and Future Work
+  Acknowledgments
+  References
+  Introduction
+  Survey
+  Results
+  Qualitative Findings
+  Discussion
+  Conclusion and Future Work
+  Acknowledgments
+  References
+  Introduction
+  Embodied Reading
+  Evaluation
+  Reading Behavior
+  Related Work
+  Conclusion
+  Acknowledgments
+  References
+  What is interactive machine learning?
+  What is constructivism?
+  Implicit and explicit learning outcomes in IML
+  Critical constructivist questions for IML
+  Implications for design practice in IML
+  Conclusions and future work
+  Acknowledgements
+  References
+  Introduction
+  Related Work
+  Design
+  Case Study
+  Conclusion and Future Work
+  Acknowledgments
+  References
+  Abstract
+  Keywords
+  Danwei Tran Luciani
+  Jonas Lundberg
+  ACM Classification Keywords
+  Purpose of the Study
+  Literature on Sketching for Ideation
+  Current Design Situation
+  Challenges in Designing for a Fulldome
+  Autobiographical Experience
+  A Need for New Sketching Media
+  Sketches of Sketching Media for Fulldome
+  Next Steps
+  Acknowledgements
+  References
+  Abstract
+  Author Keywords
+  ACM Classification Keywords
+  Introduction
+  Evgeniy Abdulin
+  Ioannis Rigas
+  Oleg Komogortsev
+  Previous Work
+  Methodology
+  Results
+  Discussion
+  Conclusion
+  Acknowledgements
+  References
+  Introduction
+  Augmented Fabrication
+  Printy
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Pilot Study
+  Main Study
+  Results
+  Discussion
+  Conclusion
+  Acknowledgements
+  References
+  Introduction
+  Technical Background
+  Artistic Motivation
+  Research Objectives
+  Visual features
+  Preliminary Analysis
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Design Goals: Observing Applications' Usage
+  InspectorWidget
+  Discussion and future work
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work
+  InstructableCrowd System
+  Pilot Study on Amazon Mechanical Turk
+  Conclusion and Future Work
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Design and Development
+  Evaluation
+  Future Work
+  Conclusion
+  Acknowledgements
+  References
+  Introduction
+  Related Work
+  System
+  Study
+  Disucssion
+  Conclusion and Future Work
+  Acknowledgments
+  References
+  Introduction
+  ThermoTouch Technical Design
+  Current Prototype and Functionality Demonstration
+  Limitations and Advantages
+  Conclusion and Future Work
+  References
+  Introduction
+  Related Work
+  FreeTop's Projectability Map
+  System Description and Performance
+  Summary
+  Acknowledgements
+  Abstract
+  Introduction
+  Related Work
+  Using DRILL SERGEANT
+  Implementation
+  Validation
+  Conclusion and Future Work
+  Acknowledgments
+  References
+  Introduction
+  Simulation
+  Player-Wizard Interaction
+  Wizard-Actor Interaction
+  Player-Actor Interaction
+  Related Work
+  Conclusion
+  References
+  Introduction
+  Related Work
+  System Design
+  Evaluation
+  Result
+  Discussion
+  Acknowledgement
+  References
+  Introduction
+  Data
+  Overview of User Interface
+  Typical Workflow
+  Algorithms Behind the Scene
+  Evaluation
+  Conclusion
+  REFERENCES
+  Introduction
+  Multi-layer Framework
+  A Human Mass-Spring-Damper Model
+  Dataset
+  Dataset Evaluation
+  Computation Algorithm
+  Results
+  Conclusion
+  REFERENCES
+  Project Overview
+  System Architecture
+  Previous Work
+  Additional Detail on Mapping Paradigms Used
+  Evaluation
+  Conclusion and Future Work
+  Acknowledgements
+  References
+  Introduction and Background
+  The Widgets
+  Evaluation
+  Results and Discussion
+  Conclusions
+  Acknowledgements
+  References
+  Abstract
+  Author Keywords
+  ACM Classification Keywords
+  Sidney D’Mello
+  Kristopher Kopp
+  Robert Bixler
+  Nigel Bosch
+  Introduction
+  Mind Wandering Detection
+  Intervention to Address Mind Wandering
+  Evaluation Study
+  Discussion
+  Acknowledgements
+  References
+  Introduction and motivation
+  Crossmodal correspondences and olfaction
+  Exploratory study
+  Future analysis based on 3D models
+  Discussion and directions for future work
+  Conclusions
+  Acknowledgments
+  References
+  Abstract
+  Author Keywords
+  ACM Classification Keywords
+  Introduction
+  Franca Garzotto
+  Mirko Gelsomini
+  Alessandro Pappalardo
+  Claudio Sanna
+  Erica Stella
+  Michele Zanella
+  The EEG Headset
+  Automatic Data Gathering and Visualization
+  Conclusions and Future Work
+  Acknowledgments
+  References
+  Introduction
+  Related Work
+  Household Survival: Immersive Gaming using Everyday Objects as Game Controllers
+  Implementation
+  Conclusion
+  Acknowledgements
+  References
+  Introduction and Related Work
+  Evaluation
+  Results
+  Discussion and Future Work
+  References
+  Abstract
+  Author Keywords
+  ACM Classification Keywords
+  Introduction
+  Fabrice Matulic Lars Engeln
+  Christoph Träger Raimund Dachselt
+  Related Work
+  Concept and Research Challenges
+  Realised Interaction Concepts
+  Conclusion
+  References
+  Introduction
+  Related Work
+  Theory of Operation
+  User Evaluation
+  Discussion
+  Future Work
+  Conclusion
+  References
+  Abstract
+  Author Keywords
+  Patricia Pons
+  Javier Jaen
+  ACM Classification Keywords
+  Introduction
+  Related Works
+  Observational Study
+  Stimuli used in current ACI playful technology
+  Early findings
+  Conclusions and Future Work
+  Acknowledgements
+  References
+  Introduction
+  Related Literature
+  Perception of Haptic Patterns Through the Palm
+  Equipment
+  Experiment
+  Results
+  Discussion
+  Conclusion and Outlook
+  Future Work
+  References
+  Introduction
+  Related Work
+  Mid-air Gesture Segmentation with Pactolus
+  Experiment and Evaluation
+  Discussion and Future Work
+  Acknowledgements
+  References
+  Introduction
+  Related Works
+  Two-point Discrimination Threshold Test of Face
+  Prototype Cheek Haptic Display System
+  Pilot Experiment
+  Results
+  Conclusions
+  Acknowledgements
+  References
+  Introduction
+  Related Work
+  Motivation
+  Design
+  Gameplay
+  Play Testing
+  Future Work
+  Conclusion
+  References
+  Introduction
+  Questionnaire survey
+  Prototyping: methodology
+  Prototyping: results and discussion
+  Limitations and further work
+  References
+  Introduction
+  Related Work
+  Hardware prototype
+  Software prototype
+  Pilot Study
+  Conclusion and Future Work
+  References
+  Introduction
+  Background
+  User Requirements
+  Brainstorming, Design and Implementation
+  Evaluation
+  Conclusion and Future Work
+  Acknowledgments
+  References
+  Introduction
+  Related work
+  Description of the system
+  Pilot study
+  Discussion
+  Conclusion & Future works
+  Acknowledgments
+  References
+  Introduction
+  Motivation
+  The Game
+  Methods
+  Results
+  Discussion
+  Conclusion
+  Acknowledgments
+  References
+  Introduction
+  The Game
+  Methods
+  Results
+  Discussion
+  Conclusion
+  Future Work
+  Acknowledgments
+  References
+  Context and Motivation
+  Background
+  Problem Statement
+  Research Approach
+  Planned Work
+  Dissertation Status and Situation
+  Current and Expected Contributions
+  Acknowledgements
+  REFERENCES
+  Abstract
+  Author Keywords
+  ACM Classification Keywords
+  Asier Marzo
+  Introduction
+  Related Work
+  The Custom Console
+  User Case: Super Football
+  Discussion
+  Conclusion
+  References
+  Introduction
+  Approach
+  Spatial Skills through Block Building
+  Multi-link Shepard-Metzler Test
+  Game-based Training Regimen
+  Conclusion
+  References
+  Introduction
+  Related Work
+  Approach
+  Conclusion
+  References
+  Introduction
+  Related Work
+  Design
+  Implementation
+  Types of Interaction
+  Opportunities with betaCube
+  Conclusions and Future Work
+  Acknowledgements
+  References
+  Introduction
+  Related Work
+  Method
+  Results
+  Conclusion
+  REFERENCES
+  Introduction
+  Interface Features
+  Preliminary User Study
+  Results
+  Discussion
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  Research Situation
+  Background and Motivation
+  Related Work
+  Research Goals and Method
+  Dissertation Status
+  Expected Contribution
+  Acknowledgments
+  References
+  Introduction
+  Threat Model
+  Concept
+  User Study
+  Results
+  Discussion
+  Limitations
+  Conclusion and Future Work
+  Acknowledgments
+  References
+  Introduction
+  Motivation & Research Questions
+  Related Work
+  Web Survey
+  Early VapeTracker Prototype
+  Next Steps & Research Agenda
+  Conflict of Interest
+  References
+  Introduction
+  Related Work
+  Methods
+  Auto-ethnographic Reflection and Implications
+  Conclusion
+  Acknowledgement
+  References
+  Introduction
+  Related Work
+  Adaptive Mesh Refinement for Interactive Optimization
+  Methodology
+  User Studies
+  Conclusion
+  References
+  Introduction
+  The Intensive Care Unit
+  Distributed Cognition in the ICU
+  Design Ethnography
+  DiCoT Analysis
+  Delayed Propagation of Contagion Risk
+  Outcomes and DiCoT Design Considerations
+  Conclusion
+  Acknowledgments
+  References
+  Introduction
+  Related work
+  Study design
+  System design
+  User evaluation
+  Conclusions and Future Work
+  Acknowledgements
+  References
+  H.3.3
+  OLE_LINK54
+  OLE_LINK53
+  Introduction and Background
+  Research Questions
+  Study Design
+  CPIS Design and Implementation
+  Preliminary Results and Future Work
+  References
+  Introduction
+  Threat Models
+  GazeTouchPass: Multimodal Passwords
+  Usability Study
+  Security Study
+  Discussion
+  Limitations and Future Work
+  Conclusion
+  References
+  Abstract
+  Author Keywords
+  ACM Classification Keywords
+  Introduction
+  Jaejeung Kim
+  Joonyoung Park
+  Uichin Lee
+  Related Work
+  Initial Study
+  Prototype Design
+  Evaluation
+  Conclusion and Future Work
+  Acknowledgements
+  References
+  Introduction
+  Related Work
+  Comment Analysis
+  Visualization Method and Implementation
+  Evaluation
+  Results and Discussion
+  Conclusion and Future Work
+  References
+  Research Situation
+  Context & Motivation
+  Background & Related Work
+  Approach
+  Results to Date & Dissertation Status
+  Current & Expected Contributions
+  References
+  Introduction
+  Related Work
+  Tableur
+  Discussion and Future Work
+  References
+  Introduction
+  Related Work
+  Design
+  Evaluation
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Related Work
+  Concept
+  Implementation
+  Experiment
+  References
+  Introduction
+  Related Work
+  System Design
+  Preliminary Deployment
+  Conclusion and Future Work
+  Acknowledgement
+  REFERENCES
+  Introduction
+  Related Work
+  Sensor
+  Fold-based Interaction and Mapping Function
+  Use Scenarios
+  Preliminary User Study
+  Results and Discussion:
+  Limitations and & Future Work
+  Conclusion
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work
+  Callout Design
+  Experimental Evaluation
+  Results
+  Discussion
+  Conclusions and Future Work
+  References
+  Introduction
+  Related Work
+  Smartwatch Prototype
+  User Study
+  Conclusion & Future Work
+  Acknowledgments
+  References
+  Abstract
+  Author Keywords
+  ACM Classification Keywords
+  Romina Kühn*
+  Mandy Korzetz*
+  Lukas Büschel
+  Christina Korger
+  Philip Manja
+  Thomas Schlegel
+  Introduction
+  Related Work
+  Voting Interactions for Collaborative Work
+  Implementation
+  Conclusion & Future Work
+  Acknowledgements
+  References
+  Introduction & Background
+  Study
+  Results
+  Discussion and Implications
+  Conclusion and Future Work
+  References
+  Abstract
+  Author Keywords
+  ACM Classification Keywords
+  Fabrice Matulic
+  Wolfgang Büschel
+  Michael Ying Yang
+  Stephan Ihrke
+  Anmol Ramraika
+  Carsten Rother
+  Raimund Dachselt
+  Introduction
+  Smart Ubiquitous Projection
+  Projection Surface Detection
+  Implementation
+  Conclusion and future work
+  Acknowledgments
+  Gestural Interaction with Projectable Regions and Content
+  References
+  Introduction
+  Design Concept
+  Hardware Architecture
+  Software and Communication
+  User Feedback
+  Conclusion & Future Work
+  Acknowledgements
+  References
+  Introduction
+  PETRI - An Example TIEC
+  Applications
+  Pilot Study
+  Conclusion
+  Acknowledgements
+  References
+  Introduction and Related Work
+  Controlled Experiment
+  Results
+  Implications
+  ProxiWatch
+  Conclusion and Future Work
+  Acknowledgments
+  References
+  Abstract
+  Author Keywords
+  ACM Classification Keywords
+  Introduction
+  Oleg Špakov
+  Harri Siirtola
+  Howell Istance
+  Kari-Jouko Räihä
+  GazeLaser
+  Experiment
+  Results
+  Discussion
+  Conclusion
+  Acknowledgements
+  References
+  Introduction
+  Background
+  System Overview
+  The Observer Software
+  The Hub Software
+  New Scenic Subjects
+  References
+  Introduction
+  Experiment
+  Results
+  Discussion and Conclusion
+  Acknowledgments
+  References
+  Introduction
+  Related Work
+  Liquid Sensing Patterns
+  Prototypical Implementation
+  Tilt and Motion Interactions
+  Example Applications
+  Evaluation
+  Limitations
+  Conclusion and Future Work
+  Acknowledgments
+  REFERENCES
+  Introduction
+  Related Work
+  Experiment
+  Results
+  Discussion
+  Applications
+  Conclusion and Future Work
+  References
+  Introduction
+  Data Collection Procedure
+  Design Pattern Structure
+  Creating a Pattern Language
+  Discussion
+  Future Work
+  Conclusion
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Related Work
+  Everyday Objects as Game Controllers
+  Implementation
+  Conclusion and Future Work
+  References
+  Introduction
+  Understanding dual-screen TV viewing
+  Object Tracking
+  Attention Classification Study
+  A Reproducible Method for ABC
+  Discussion
+  Acknowledgements
+  References
+  Butler_FacialExpressionMapping_camera.pdf
+  CHI_refs
+  Introduction
+  Related Work
+  Study Design
+  Results
+  Conclusion
+  References
+  Introduction
+  Related Work
+  SoundGuides
+  Evaluation
+  Discussion and Conclusion
+  Acknowledgments
+  References
+  Introduction
+  Methodology
+  Personas
+  Discussion
+  Limitation
+  Conclusion
+  Acknowledgements
+  References
+  Introduction
+  Background
+  Threadsteading
+  Conclusions
+  References
+  Introduction
+  Existing Conflict Solution Approaches
+  Study on Accessibility Settings Conflicts
+  Status and Future Work
+  Summary and Conclusion
+  Acknowledgements
+  References
+  Introduction
+  Related Work
+  Online Crawl vs. Offline Survey
+  Method
+  Results
+  Exploring Possible Confounds
+  Discussion
+  Conclusion
+  References
+  Abstract
+  Author Keywords
+  ACM Classification Keywords
+  Mario Silic12
+  Introduction
+  Study Method
+  Results
+  Future works
+  References
+  Abstract
+  Author Keywords
+  ACM Classification Keywords
+  General Terms
+  Evgeniy Abdulin
+  Dorrit Billman
+  Introduction
+  The design of test-bed software application
+  Method
+  Results
+  Conclusion and future work
+  References
+  Abstract
+  Author Keywords
+  ACM Classification Keywords
+  Introduction
+  Ahmed Sabbir Arif
+  Sarah Fardeen
+  Data Collection
+  Analysis of the Phrase Set
+  Discussion
+  Conclusion
+  Acknowledgements
+  References
+  Introduction
+  Background: Kano Model
+  Related Work
+  User Study for Platfora's Data Visualization
+  User Study for Platfora's Data Management
+  Discussion
+  Acknowledgment
+  REFERENCES
+  Introduction
+  Related Works
+  Squatting
+  Squat Tracking Software
+  Hardware Set-up
+  Users
+  Experiment Layout
+  Results
+  Discussion and Future Works
+  Conclusion
+  References
+  Introduction
+  Related Work
+  cTed
+  Dicussion and Future Work
+  Acknowledgements
+  References
+  Introduction
+  Related Work
+  Micro-Navigation Aids
+  Results and Discussion
+  Conclusion and Future Work
+  REFERENCES
+  Introduction
+  Iconography
+  Linearity
+  Consistency
+  Robustness
+  Interactivity and Visibility
+  Usability Study
+  Results
+  Conclusions
+  Acknowledgements
+  References
+  Abstract
+  Author Keywords
+  ACM Classification Keywords
+  Oliver Korn
+  Johannes Lang
+  Andreas Korge
+  Haris Causegic
+  Albrecht Schmidt
+  Introduction
+  State of the Art
+  Implementation
+  Study Procedure
+  Study Results
+  Conclusion
+  Limitations and Future Work
+  Acknowledgements
+  References
+  Introduction
+  Approach
+  Results
+  Discussion
+  Next Steps & Contribution
+  Acknowledgements
+  References
+  Introduction
+  Method
+  Results
+  Discussion
+  Conclusion and future work
+  Acknowledgements
+  References
+  Introduction
+  The Collision of Two Opposing Ideologies
+  Pedagogy
+  Conclusions and Future Work
+  References
+  Introduction
+  Background
+  Study Design
+  Results
+  Conclusion & Future Work
+  Acknowledgements
+  References
+  Introduction
+  The need for user-centered design in taxonomy
+  The TTI Hackathon
+  Emergent areas for CHI research
+  Taxonomy as a case study for Human Information Interaction
+  Future work
+  Acknowledgements
+  REFERENCES
+  Introduction
+  Related Work
+  Hypotheses
+  User Study
+  Results
+  Discussion & Conclusion
+  Future Work
+  REFERENCES
+  Introduction
+  Related Work
+  Compensation based Anti-shake Mechanism
+  Verification by User Tests
+  Conclusions
+  REFERENCES
+  Introduction
+  Related Work
+  Data Collection
+  Modeling Interaction Events
+  Goodness of Features
+  Results and Discussion
+  Conclusion
+  References
+  Introduction
+  Related Work
+  Study Design and Participants
+  Results
+  Conclusion
+  References
+  Introduction
+  Related Work
+  Data
+  Features
+  Model
+  Results
+  Discussion and Future Work
+  References
+  Background
+  Organizers
+  Website
+  Pre-workshop plans
+  Workshop structure
+  Post-workshop plans
+  Call for Participation
+  Acknowledgements
+  References
+  Background and Rationale
+  Participants
+  Pre-Workshop Plans
+  Workshop Structure
+  Post-Workshop Plans
+  Biographies of Workshop Organisers
+  Call for Participation
+  References
+  Background
+  Organisers
+  Website
+  Pre-Workshop Plans
+  Workshop Structure
+  Post-Workshop Plans
+  Call for Participation
+  REFERENCES
+  Introduction
+  Critical Realism
+  Situatedness & Context
+  The Social & Embodiment
+  Different ways of knowing
+  Experiments in HCI
+  Discussion & Conclusions
+  Acknowledgements
+  References
+  Background
+  Research practice supporting impact
+  Wearables, Interfaces & Interventions for Mental Health
+  Online Communities
+  Positive Computing
+  Workshop Organizers
+  Website
+  Pre-workshop Plans
+  Workshop Structure
+  Post-Workshop Plans
+  Call for Participation
+  References
+  Abstract
+  Author Keywords
+  ACM Classification Keywords
+  Background
+  Audrey Girouard
+  David McGookin
+  Peter Bennett
+  Workshop Goals and Objectives
+  Organizers
+  Website
+  Pre-Workshop Plans
+  Workshop Structure
+  Post-Workshop Plans
+  Call for Papers
+  References
+  Background
+  Organizers
+  Website
+  Pre-Workshop Plans
+  Workshop Structure
+  Post-Workshop Plans
+  Call for Participation
+  References
+  Abstract
+  Author Keywords
+  ACM Classification Keywords
+  Jaime Teevan
+  Shamsi T. Iqbal
+  Jeffrey P. Bigham
+  Michael S. Bernstein
+  Elizabeth M. Gerber
+  Background
+  Workshop Structure
+  Organizers
+  Call for Participation
+  References
+  Introduction and Background
+  Workshop Themes & Focus
+  Workshop Participation
+  Intended Outcomes
+  Organizers
+  Pre-Workshop Plans
+  Workshop Structure
+  Post-Workshop Plans
+  Call for Participation
+  Acknowledgements
+  References
+  Introduction and Background
+  Organizers
+  Website
+  Pre-Workshop Plans
+  Workshop structure
+  Post-Workshop Plans
+  Call for Participation
+  References
+  Introduction
+  Relevance
+  Description of the Demonstration
+  Audience
+  References
+  Background and Rationale
+  About the demo
+  References
+  Introduction
+  Background and Motivation
+  GaussBox
+  Discussion
+  Acknowledgements
+  References
+  Introduction
+  Concept and Implementation
+  Related Work
+  Applications
+  Conclusion
+  Acknowledgements
+  References
+  Introduction
+  System Implementation
+  Interaction
+  Discussion
+  Conclusion
+  References
+  Introduction
+  The iVoLVER Interactive Language
+  Visualization Example
+  Conclusion
+  References
+  Introduction
+  Personalized Compass
+  Prototype and Field Experience
+  Using POIs to Overcome Scalability
+  User Study
+  Design Recommendations
+  Conclusion
+  Acknowledgements
+  References
+  Introduction
+  Implementation
+  User Interaction
+  Conclusion and Future Work
+  References
+  Introduction
+  TimeLight
+  Results
+  Progress beyond the State of the Art
+  Conclusion
+  REFERENCES
+  Introduction
+  Haptics in music
+  Development and Design
+  Hardware and Software
+  Acknowledgements
+  References
+  Introduction
+  EMS Usage
+  EMS Prototyping Toolkit
+  Toolkit Usage
+  Conclusion
+  References
+  Introduction
+  The Anonymous Audience Analyzer
+  Demo Setup
+  Conclusion
+  REFERENCES
+  Introduction
+  Related Work
+  DriftBoard Interaction
+  Method
+  Results
+  Conclusion
+  Acknowledgments
+  References
+  Introduction
+  Walkthrough: Designing a Blog Page
+  Overview of Interactions
+  Predictive Models and Objective Function
+  Conclusion
+  References
+  Introduction
+  Design Considerations
+  Interaction Design
+  Prototype
+  Conclusion and Future Work
+  Acknowledgments
+  References
+  Introduction and Motivation
+  Related Work
+  Architecture of M³ Framework
+  Real-World Deployment of M³
+  Conclusion and Future Work
+  REFERENCES
+  Introduction
+  Research Challenge and Steps
+  Prototype
+  Conclusion and Future Work
+  Acknowledgement
+  References
+  Introduction
+  Related Work
+  Components
+  Project Team
+  Conclusion
+  REFERENCES
+  Introduction
+  Motivation
+  Previous Work
+  Installation
+  Technical Description
+  Resulting Sound
+  REFERENCES
+  Introduction
+  Imitation Game Revisited
+  Simulacrum and 'Resurrecting' the Dead
+  Data Sources
+  Gradualist Approach for Simulating Persons
+  Evaluation
+  Related Work
+  Ethical and Moral Implications
+  Conclusion
+  Acknowledgment
+  References
+  Introduction
+  Characteristics of Data Edibilization
+  Pragmatic Process to Reach Data Edibilization
+  Enabling Technologies
+  Research Agenda
+  Conclusion and Future Work
+  Acknowledgements
+  References
+  Introduction
+  Agroecology
+  Background: Agriculture Past and Present
+  Computational Agroecology
+  Example Use Cases
+  Conclusion
+  Acknowledgments
+  References
+  Introduction
+  Related Work
+  Discussing Sexual Harassment Without Technology
+  A Misleading Online Interview
+  Removing Technology™s Barriers to Communicate
+  Face to Face Interaction
+  Removing Face to Face Interaction
+  Unexpected Connections: Technology Plays Positive Role
+  Technology and Silence in Bangladesh
+  Conclusion
+  Acknowledgment
+  References
+  Introduction
+  The Commercial Importance of the Smartphone
+  The Psychological Importance of the Smartphone
+  Radical Individualism
+  The Smartphone as a Tech Killer
+  Conclusion
+  References
+  Introduction
+  Definition and Motivation
+  Contribution
+  Study One: Types of Null Gestures
+  Gesture Detection
+  Study Two: Application
+  Results
+  Discussion
+  Context and Previous Work
+  Acknowledgements
+  References
+  Introduction & Context
+  Research Context
+  Dataset
+  Analysis
+  Results & Causes
+  Generalization
+  Conclusion & Future Work
+  References
+  Introduction
+  PDFs and Accessibility
+  How to make PDFs Accessible
+  Will People Make Their Papers Accessible?
+  Our Experience
+  Options Moving Forward
+  Conclusion
+  Acknowledgements
+  References
+  Abstract
+  Author Keywords
+  Design decks; design pedagogy; card decks; design presentations
+  ACM Classification Keywords
+  Introduction
+  Background
+  The Panda Hat of Doom
+  Evaluating the Panda Hat of Doom
+  Professional Practice
+  Conclusion
+  Acknowledgements
+  References
+  Background
+  Prior Work
+  The Tool
+  User Studies
+  Conclusions and Future Work
+  Acknowledgments
+  References
+  Introduction
+  Overview of Methods
+  Study Experience
+  Pre-Study Interactions
+  Activities
+  Overall Engagement
+  Relationships between Participants
+  Researcher Perspective
+  Future Directions & Conclusion
+  Acknowledgements
+  References
+  Introduction
+  Apiness: API Design Reviews at Scale
+  Analysis
+  Reflections on Scaling API Design Reviews
+  Next Steps and Future Work
+  Conclusions
+  References
+  Introduction
+  Methodology
+  Study Design
+  Results
+  Conclusion and Future Research
+  Acknowledgments
+  References
+  Research Motivation and Background
+  Related Work
+  Research Approach: Semantics Driven Learnersourcing Methodology
+  Preliminary Study and Evaluation
+  Research Novelty and Contributions
+  References
+  Introduction
+  Benefits
+  Content
+  Audience and Learning Objectives
+  Prerequisites
+  Presentation Format
+  Instructor Background
+  Resources
+  REFERENCES
+  References
+  Overview
+  Learning outcomes
+  Intended audience
+  Schedule and activities
+  Instructors
+  Additional resources
+  Acknowledgements
