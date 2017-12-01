@@ -1,6 +1,7 @@
 total extended abstracts: 567
 mentioning "open(-| )source" or "source(-| )code": 50
-actually releasing something: 11
+mentioning "supplement(al|ary) material(s)": 2
+actually releasing something: 11+1
 
 raw-text/ea1208-hale.txt:The code is freely available under an open-source license at
 raw-text/ea1548-frisson.txt:We propose InspectorWidget, an opensource application to
@@ -16,7 +17,8 @@ raw-text/ea2766-apaolaza.txt:mated Behavioural Coding (ABC), an open source obje
 
 total paper: 460
 mentioning "open(-| )source" or "source(-| )code": 74
-actually releasing something: 6 (!)
+mentioning "supplement(al|ary) material(s)": 22
+actually releasing something: 6+3
 
 raw-text/p1338-tian.txt:nation of the design, is all available open source. These files
 raw-text/p1996-gugenheimer.txt:code and building instructions as an open source platform. We

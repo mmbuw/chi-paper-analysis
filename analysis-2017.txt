@@ -1,3 +1,8 @@
+total paper: 599
+mentioning "open(-| )source" or "source(-| )code": 91
+mentioning "supplement(al|ary) material(s)": 41
+actually releasing something: 21(+3?) <- not yet including supplementary stuff
+
 raw-text/p1093-correiaA.txt - toolkit released as open source
 raw-text/p1136-warnerA.txt - open-source on github 
 raw-text/p1265-kery.txt - Variolite source code https://mkery.github.io/Variolite/
