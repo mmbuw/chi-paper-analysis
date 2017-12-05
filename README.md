@@ -1,1 +1,1 @@
-# chi2016-paper-analysis
+# chi-paper-analysis
