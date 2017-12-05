@@ -1,7 +1,7 @@
 total paper: 599
 mentioning "open(-| )source" or "source(-| )code": 91
 mentioning "supplement(al|ary) material(s)": 41
-actually releasing something: 21(+3?) <- not yet including supplementary stuff
+actually releasing something: 21 <- not yet including supplementary stuff
 
 raw-text/p1093-correiaA.txt - toolkit released as open source
 raw-text/p1136-warnerA.txt - open-source on github 
@@ -25,14 +25,10 @@ raw-text/p5850-tarnataA.txt - reference source code on github
 raw-text/p6038-liA.txt - The source code is available at http://www.toby.li/sugilite_repo
 raw-text/p6825-pandeyA.txt - source at http://gutinstinct.ucsd.edu.
 
-? -> raw-text/p2282-balestrini.txt:The outcome of this phase was a set of open source
-? -> raw-text/p4534-nelimarkkaA.txt:1 Presemo is an Open Source live-participation environment available
-? -> raw-text/p6133-hassibA.txt:scribed in [49]. The toolkit is available open source3
-
 total extended abstracts: 458
 mentioning "open(-| )source" or "source(-| )code": 33
-mentioning "supplement(al|ary) material(s)": 28 <- check again
-actually releasing something: 6(+1?) <- not yet including supplementary stuff
+mentioning "supplement(al|ary) material(s)": 6
+actually releasing something: 6
 
 ea1046-burke.txt:corresponding actions. (Please see supplemental
 ea154-patil.txt:source code on: http://ocvr-p10.com/.
@@ -40,5 +36,3 @@ ea381-dibia.txt:TJBot is open source, including both the robot housing
 ea4121-xxxx.txt:hardware attached in the supplementary material).
 ea4128-xxxx.txt:open-source [18] adaptable and modular interaction de-
 ea425-wilson.txt:The RoomAlive Toolkit is an open source SDK that
-
-? -> ea4179-xxxx.txt:Scratch [16], a free/libre/open source webtool that allows to
