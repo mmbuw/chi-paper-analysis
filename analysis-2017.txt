@@ -29,3 +29,16 @@ raw-text/p6825-pandeyA.txt - source at http://gutinstinct.ucsd.edu.
 ? -> raw-text/p4534-nelimarkkaA.txt:1 Presemo is an Open Source live-participation environment available
 ? -> raw-text/p6133-hassibA.txt:scribed in [49]. The toolkit is available open source3
 
+total extended abstracts: 458
+mentioning "open(-| )source" or "source(-| )code": 33
+mentioning "supplement(al|ary) material(s)": 28 <- check again
+actually releasing something: 6(+1?) <- not yet including supplementary stuff
+
+ea1046-burke.txt:corresponding actions. (Please see supplemental
+ea154-patil.txt:source code on: http://ocvr-p10.com/.
+ea381-dibia.txt:TJBot is open source, including both the robot housing
+ea4121-xxxx.txt:hardware attached in the supplementary material).
+ea4128-xxxx.txt:open-source [18] adaptable and modular interaction de-
+ea425-wilson.txt:The RoomAlive Toolkit is an open source SDK that
+
+? -> ea4179-xxxx.txt:Scratch [16], a free/libre/open source webtool that allows to
