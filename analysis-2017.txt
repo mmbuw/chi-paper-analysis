@@ -1,7 +1,7 @@
 total paper: 599
 mentioning "open(-| )source" or "source(-| )code": 91
 mentioning "supplement(al|ary) material(s)": 41
-actually releasing something: 21 <- not yet including supplementary stuff
+actually releasing something: 21
 
 raw-text/p1093-correiaA.txt - toolkit released as open source
 raw-text/p1136-warnerA.txt - open-source on github 

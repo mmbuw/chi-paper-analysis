@@ -1,40 +1,40 @@
-raw-text/p1015-orji.txt:storyboards can be found in the supplementary material.
-raw-text/p1118-feitA.txt:angle, but refer to the supplementary material for an extended
-raw-text/p1307-liuA.txt:able in supplementary material. For the following section,
-raw-text/p1352-tabor.txt:found in supplementary materials. It was interesting to note
-raw-text/p1375-kimA.txt:relevant experience across the conditions (see supplementary
-raw-text/p1768-maurielloA.txt:custom training document (see Supplementary Materials).
-raw-text/p1817-fraserA.txt:full task instructions as supplementary material to similarly
-raw-text/p1949-jiaA.txt:t-test results are presented in the supplementary materials.
-raw-text/p220-dezaA.txt:ity surface; see Supplementary Material), such that, highly
-raw-text/p2628-kimA.txt:function) are included as supplemental material.
-raw-text/p2648-wongsuphasawatA.txt:expressiveness constraints (listed in supplemental material) to
-raw-text/p2928-kraljA.txt:of some of these old designs are provided in supplementary
-raw-text/p2993-yaroshA.txt:supplementary materials), along with the three key aspects
-raw-text/p3213-chancellorAFL.txt:(ref. Supplemental Materials). This means that our research
-raw-text/p3241-riche.txt:with supplemental study material is available at:
-raw-text/p3620-dasguptaA.txt:cluded in the supplementary material for this paper.
-raw-text/p3693-yueA.txt:in supplemental document).
-raw-text/p3838-hoyleA.txt:as supplementary material. The survey was advertised using
-raw-text/p4146-freemanA.txt:see the supplementary material for all of the questions.
-raw-text/p4358-moserA.txt:supplementary materials for additional details). Due to the
-raw-text/p4468-popeA.txt:Supplementary Materials). Two colleagues Brian and Alice are
-raw-text/p4715-giannisakisA.txt:each command. All icons are attached in the supplementary
-raw-text/p4899-marshall.txt:included as supplementary materials. The contribution of the
-raw-text/p4924-prabhakarA.txt:supplementary material.
-raw-text/p4994-strohmeierA.txt:supplementary material, or see Han et al. [11]. Note that we
-raw-text/p5053-maudetA.txt:All 52 stories are available as supplementary material. In the text,
-raw-text/p5171-francoiseA.txt:2supplementary material is available online:
-raw-text/p519-gormanAfl.txt:cluded in the supplementary materials (‘InterviewGuide.pdf’).
-raw-text/p5361-widdicksA.txt:Some sample visualisations are provided as supplemental material.
-raw-text/p5462-boyA.txt:1 Results for Exps. 4 and 5 can be found in the supplemental
-raw-text/p5773-zhuA.txt:ities and differences in CBT-I workflow (see Supplemental
-raw-text/p6056-findlater.txt:the Supplemental Materials, but reported medical conditions
-raw-text/p61-zugerA.txt:be found on our supplemental materials site 3.
-raw-text/p6672-hanafiA.txt:in the supplemental material.
-raw-text/p6695-xieA.txt:The final five images are in our supplemental materials.
-raw-text/p6837-lee.txt:duration) can be found in our online supplement. We esti-
-raw-text/p6876-epsteinA.txt:demographics. The supplemental materials contain more
-raw-text/p6973-sleeperA.txt:full sets of mockup screens are included in the supplementary online materials for this paper.
-raw-text/p6986-thomas.txt:mission. The full research brief is attached as supplementary
-raw-text/p919-hauteaA.txt:have included these questions in an online supplement. Finally,
+ea1135-lisowska-masson.txt:supplementary material KSPrototype1.png) which
+ea4121-xxxx.txt:hardware attached in the supplementary material). <-- source code in supplement
+ea4204-xxxx.txt:between reasons and conclusion. See the supplementary materials for an extended version of the Table 1. As Table
+ea735-linehan.txt-interests. The list we used in the case studies below is available in supplementary materials.
+p1015-orji.txt:storyboards can be found in the supplementary material.
+p1118-feitA.txt:extended table with degrees is provided in the supplementary material.
+p1352-tabor.txt-explaining the evolution of calibration tools can also be found in supplementary materials.
+p1768-maurielloA.txt:custom training document (see Supplementary Materials).
+p1817-fraserA.txt:full task instructions as supplementary material to similarly
+p1949-jiaA.txt:list of survey questions is included in the supplementary materials.
+p220-dezaA.txt-Movements PPC, and Detectability PPC is provided in the Supplementary Material.
+p2628-kimA.txt-generating linear programs (solvable via MATLAB’s linprog function) are included as supplemental material.
+p2648-wongsuphasawatA.txt:expressiveness constraints (listed in supplemental material) to
+p2928-kraljA.txt:Images of some of these old designs are provided in supplementary materials.
+p2993-yaroshA.txt-These features were described to users in a manual (see supplementary materials), along with the three key aspects
+p3213-chancellorAFL.txt-Passive online consent was sought from the account owners (see Supplementary Materials
+p3241-riche.txt:with supplemental study material is available at http://aka.ms/aswemayink
+p3620-dasguptaA.txt:quantitative survey responses are included in the supplementary material
+p3787-tanAFL.txt:are included as supplementary material.
+p3838-hoyleA.txt:survey instrument is included as supplementary material. 
+p4146-freemanA.txt:see the supplementary material for all of the questions.
+p4358-moserA.txt:See supplementary material for results that include the
+p4468-popeA.txt:Supplementary Materials). Two colleagues Brian and Alice are
+p4899-marshall.txt:data and analysis variables in supplementary material files -
+p4994-strohmeierA.txt:spreadsheet provided with the supplementary material, 
+p5053-maudetA.txt:All 52 stories are available as supplementary material. In the text,
+p5171-francoiseA.txt:supplementary material is https://www.julesfrancoise.com/stillmoving
+p519-gormanAfl.txt:the ‘Transcripts’ folder in the supplementary materials.
+p5361-widdicksA.txt:Some sample visualisations are provided as supplemental material.
+p5462-boyA.txt:1 Results for Exps. 4 and 5 can be found in the supplemental material
+p5773-zhuA.txt:ities and differences in CBT-I workflow (see Supplemental
+p6056-findlater.txt:the Supplemental Materials, but reported medical conditions
+p61-zugerA.txt:supplemental materials site 3 https://sites.google.com/site/focuslightonline/.
+p6672-hanafiA.txt:full algorithm is included in the supplemental material.
+p6695-xieA.txt:The final five images are in our supplemental materials.
+p6837-lee.txt:expertise in sleep (see online supplement for full details).
+p6876-epsteinA.txt:demographics. The supplemental materials contain more details
+p6973-sleeperA.txt:mockup screens included in the supplementary online materials for this paper.
+p6986-thomas.txt:mission. The full research brief is attached as supplementary material.
+p919-hauteaA.txt:have included these questions in an online supplement. Finally,

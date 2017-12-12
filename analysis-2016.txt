@@ -18,7 +18,7 @@ raw-text/ea2766-apaolaza.txt:mated Behavioural Coding (ABC), an open source obje
 total paper: 460
 mentioning "open(-| )source" or "source(-| )code": 74
 mentioning "supplement(al|ary) material(s)": 22
-actually releasing something: 6+3
+actually releasing something: 6+4
 
 raw-text/p1338-tian.txt:nation of the design, is all available open source. These files
 raw-text/p1996-gugenheimer.txt:code and building instructions as an open source platform. We
