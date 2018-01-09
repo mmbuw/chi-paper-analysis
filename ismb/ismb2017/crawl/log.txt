@@ -1,0 +1,3 @@
+Pubmed: 33[Volume] AND 14[Issue] and bioinformatics[journal] 
+Downloaded all PMIDs into docIds.txt
+

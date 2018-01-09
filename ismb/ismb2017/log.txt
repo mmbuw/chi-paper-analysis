@@ -1,0 +1,1 @@
+less ascii.raw/0_00000.files | egrep 'fileId|main.pdf' | grep 'in due course' -vi > ascii.filt/files.txt

@@ -1,0 +1,58 @@
+PMID	isOpenSource	extract
+28334186 OK RNAscClust is available as source code|RNAscClust is available at http://www.bioinf.uni-freiburg.de/ Software/RNAscClust
+28334194 OK Source code and documentation are freely available on https://www.github.com/eclarke/swga
+28334237 OK To facilitate future developments, we also released the entire source code on GitHub (https://github.com/TeamErlich/dna-land-compass) under the BSD license.
+28334267 NO "The tool is publicly available at http://resistomap.rcpcm.org."
+28334291 OK The source code is licensed under the Apache 2.0 License and is freely available on GitHub: https://github.com/transmart/SmartR.
+28334301 NO Dynamix is hosted at http://furlonglab.embl.de/Dynamix
+28334344	OK	PandaR is provided as a Bioconductor R Package and is available at bioconductor.org/packages/pandaR
+28334395	OK	The GUIs are packaged within poRe which is available on SourceForge: https://sourceforge.net/projects/rpore/files/.
+28369168	OK	ConKit is available via the Python Package Index. The documentation can be found at http://www.conkit.org. ConKit is licensed under the BSD 3-Clause.  
+28369191	OK	The commands used to analyse the data are available in supplementary materials and at https://github.com/nunofonseca/irap/wiki/iRAP-single-library
+28369339	OK	Source code in Julia and Python, and detailed documentation is available at https://github.com/gersteinlab/HiC-spector.
+28881961        OK	Availability and implementation: https://github.com/bioinf-jku/librfn
+28881962	OK	Source code is at https://github.com/datduong/RECOV
+28881963	OK	The source code for LSTM-CRF is available at https://github.com/glample/tagger and the links to the corpora are available at https://corposaurus.github.io/corpora/
+28881964	OK	this OMA 2.0 algorithm is used in the public OMA database from the March 2017 release onwards (Altenhoff et al., 2015; http://omabrowser.org), and can be applied to custom genomes using the open source OMA standalone software version 2.0 (http://omabrowser.org/standalone).
+28881965	OK	Source code freely available at http://www.cs.cmu.edu/mxu1/software
+28881966	OK	Code available at http://kiharalab.org/DextMP
+28881967	OK	The MATLAB implementation of HopLand is available at https://github.com/NetLand-NTU/HopLand.
+28881968	NO	A web server of the application is under development
+28881969	OK	The source code can be downloaded from https://github.com/minxueric/ismb2017_lstm
+28881970	OK	The software used for this analysis is available on GitHub: https://github.com/gmarcais/minimizers.git
+28881971	OK	Available on GitHub at https://github.com/yoheirosen/vg
+28881972        OK      DiTASiC code is freely available from https://rki_bioinformatics.gitlab.io/ditasic
+28881973        OK      the source code, and the annotated benchmark data set are available at: http://tabilab.cmpe.boun.edu.tr/BIOSSES/
+28881974        NO      Datasets as well as models of all the 558 Pfam families are available at http://c3.pcons.net/. All programs used here are freely available
+28881975	OK      The R-package ‘zeroSum’ can be downloaded at https://github.com/rehbergT/zeroSum. Complete data and R codes necessary to reproduce all our results can be received from the authors upon request.
+28881976        OK      The software is freely available at http://software.buhmhan.com/RE2C
+28881977        OK      https://github.com/kundajelab/coda
+28881978        OK      The output of the NePhe and NEST methods, as well as simply ordering by combined P-value is also provided in the supplementary MATLAB code
+28881979        OK      The Matlab code is available at https://sourceforge.net/projects/ibrain-cn/files/
+28881980        OK      Also, we provide the source code of DynaMAGNAþþ so that computational scientists may potentially extend the work (http://nd.edu/cone/DynaMAGNAþþ/)
+28881981        OK      TITER is available as an open-source software and can be downloaded from https://github.com/zhangsaithu/titer
+28881982        OK      The full source code of MALAX is available at https://github.com/omerwe/MALAX
+28881983        OK      The sMA is implemented in the open-source MATLAB toolbox CERENA and is available from https://github.com/CERENADevelopers/CERENA
+28881984        OK      The Matlab code for the estimation method is available for download at https://team.inria.fr/ibis/rate-estimation-software/, together with the datasets.
+28881985        OK      the popFBA MATLAB function and the SBML model are available at https://github.com/BIMIB-DISCo/popFBA
+28881986        OK      Source code and datasets are available at http://snap.stanford.edu/ohmnet
+28881987        OK?      MATLAB code is available at Bioinformatics online
+28881988        OK      Pamir is available at https://github.com/vpc-ccg/pamir
+28881989        NoPdf
+28881990        OK?      R package iJRF is available at CRAN.
+28881991	OK	The source code of PEP is available at: https://github.com/macompbio/PEP
+28881992        OK      The source code and data are available as a Reproducible Research Archive at http://murphylab.cbd.cmu.edu/software/2017_TcellCausalModels/
+28881993        NO	The analysis data are available for download at http://www.gen.tcd.ie/molevol/supp_data/MacrosyntenyTGD.zip, and the software written in Java is available upon request.
+28881994	OK      The R source code described in this article is publicly available at https://bitbucket.org/kleinstein/logminer
+28881995        OK      Availability and implementation: https://github.com/splatlab/debgr
+28881996        OK      Our data-driven factorizations are incorporated into a branch of the Salmon transcript quantification tool: https://github.com/COMBINE-lab/salmon/tree/factorizations.
+28881997        OK      All of the code and data are available at http://mypage.iu.edu/dajmcdon/research/
+28881998        OK      The source code of the method is available at https://github.com/suleimank/mvlr
+28881999        OK      DeepBound is freely available at https://github.com/realbigws/DeepBound
+28882000        OK      Code and data available at: majiq.biociphers.org/jha_et_al_2017/
+28882001        OK      RNANR is freely available at https://project.inria.fr/rnalands/rnanr
+28882002        OK      Software is available at compbio.cs.brown.edu/software
+28882003        OK      A Python implementation of miniMDS is available on GitHub: https://github.com/seqcode/miniMDS.
+28882004        ?       Availability and Implementation: http://mutpred.mutdb.org
+28882005        OK      Our code is available as free software at https://github.com/donaldlab/OSPREY_refactor
+
