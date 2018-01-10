@@ -2,7 +2,7 @@ PMID	isOpenSource	extract
 28334186 OK RNAscClust is available as source code|RNAscClust is available at http://www.bioinf.uni-freiburg.de/ Software/RNAscClust
 28334194 OK Source code and documentation are freely available on https://www.github.com/eclarke/swga
 28334237 OK To facilitate future developments, we also released the entire source code on GitHub (https://github.com/TeamErlich/dna-land-compass) under the BSD license.
-28334267 NO "The tool is publicly available at http://resistomap.rcpcm.org."
+28334267 NO The tool is publicly available at http://resistomap.rcpcm.org.
 28334291 OK The source code is licensed under the Apache 2.0 License and is freely available on GitHub: https://github.com/transmart/SmartR.
 28334301 NO Dynamix is hosted at http://furlonglab.embl.de/Dynamix
 28334344	OK	PandaR is provided as a Bioconductor R Package and is available at bioconductor.org/packages/pandaR
