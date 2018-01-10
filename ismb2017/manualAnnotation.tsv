@@ -1,16 +1,16 @@
 PMID	isOpenSource	extract
-28334186 OK RNAscClust is available as source code|RNAscClust is available at http://www.bioinf.uni-freiburg.de/ Software/RNAscClust
-28334194 OK Source code and documentation are freely available on https://www.github.com/eclarke/swga
-28334237 OK To facilitate future developments, we also released the entire source code on GitHub (https://github.com/TeamErlich/dna-land-compass) under the BSD license.
-28334267 NO The tool is publicly available at http://resistomap.rcpcm.org.
-28334291 OK The source code is licensed under the Apache 2.0 License and is freely available on GitHub: https://github.com/transmart/SmartR.
-28334301 NO Dynamix is hosted at http://furlonglab.embl.de/Dynamix
+28334186  OK RNAscClust is available as source code|RNAscClust is available at http://www.bioinf.uni-freiburg.de/ Software/RNAscClust
+28334194  OK Source code and documentation are freely available on https://www.github.com/eclarke/swga
+28334237  OK To facilitate future developments, we also released the entire source code on GitHub (https://github.com/TeamErlich/dna-land-compass) under the BSD license.
+28334267  NO The tool is publicly available at http://resistomap.rcpcm.org.
+28334291  OK The source code is licensed under the Apache 2.0 License and is freely available on GitHub: https://github.com/transmart/SmartR.
+28334301  NO Dynamix is hosted at http://furlonglab.embl.de/Dynamix
 28334344	OK	PandaR is provided as a Bioconductor R Package and is available at bioconductor.org/packages/pandaR
 28334395	OK	The GUIs are packaged within poRe which is available on SourceForge: https://sourceforge.net/projects/rpore/files/.
 28369168	OK	ConKit is available via the Python Package Index. The documentation can be found at http://www.conkit.org. ConKit is licensed under the BSD 3-Clause.  
 28369191	OK	The commands used to analyse the data are available in supplementary materials and at https://github.com/nunofonseca/irap/wiki/iRAP-single-library
 28369339	OK	Source code in Julia and Python, and detailed documentation is available at https://github.com/gersteinlab/HiC-spector.
-28881961        OK	Availability and implementation: https://github.com/bioinf-jku/librfn
+28881961  OK	Availability and implementation: https://github.com/bioinf-jku/librfn
 28881962	OK	Source code is at https://github.com/datduong/RECOV
 28881963	OK	The source code for LSTM-CRF is available at https://github.com/glample/tagger and the links to the corpora are available at https://corposaurus.github.io/corpora/
 28881964	OK	this OMA 2.0 algorithm is used in the public OMA database from the March 2017 release onwards (Altenhoff et al., 2015; http://omabrowser.org), and can be applied to custom genomes using the open source OMA standalone software version 2.0 (http://omabrowser.org/standalone).
@@ -21,9 +21,9 @@ PMID	isOpenSource	extract
 28881969	OK	The source code can be downloaded from https://github.com/minxueric/ismb2017_lstm
 28881970	OK	The software used for this analysis is available on GitHub: https://github.com/gmarcais/minimizers.git
 28881971	OK	Available on GitHub at https://github.com/yoheirosen/vg
-28881972        OK      DiTASiC code is freely available from https://rki_bioinformatics.gitlab.io/ditasic
-28881973        OK      the source code, and the annotated benchmark data set are available at: http://tabilab.cmpe.boun.edu.tr/BIOSSES/
-28881974        NO      Datasets as well as models of all the 558 Pfam families are available at http://c3.pcons.net/. All programs used here are freely available
+28881972  OK      DiTASiC code is freely available from https://rki_bioinformatics.gitlab.io/ditasic
+28881973  OK      the source code, and the annotated benchmark data set are available at: http://tabilab.cmpe.boun.edu.tr/BIOSSES/
+28881974  NO      Datasets as well as models of all the 558 Pfam families are available at http://c3.pcons.net/. All programs used here are freely available
 28881975	OK      The R-package ‘zeroSum’ can be downloaded at https://github.com/rehbergT/zeroSum. Complete data and R codes necessary to reproduce all our results can be received from the authors upon request.
 28881976        OK      The software is freely available at http://software.buhmhan.com/RE2C
 28881977        OK      https://github.com/kundajelab/coda
