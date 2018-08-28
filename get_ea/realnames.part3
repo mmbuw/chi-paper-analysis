@@ -1,0 +1,1042 @@
+
+authorize?N35300                                         [  <=>                                                                                                                 ]  55,33K   131KB/s    in 0,4s
+
+2017-12-05 02:52:07 (131 KB/s) - ‘authorize?N35300’ saved [56659]
+
+ft_gateway.cfm?id=3053260&ftid=1869793&dwn=1&CFID=1013429608&CFTOKEN=53764259
+--2017-12-05 02:52:37--  http://dl.acm.org/ft_gateway.cfm?id=3053260&ftid=1869793&dwn=1&CFID=1013429608&CFTOKEN=53764259
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053260&ftid=1869793&dwn=1&CFID=1013429608&CFTOKEN=53764259 [following]
+--2017-12-05 02:52:37--  https://dl.acm.org/ft_gateway.cfm?id=3053260&ftid=1869793&dwn=1&CFID=1013429608&CFTOKEN=53764259
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://dl.acm.org/ft_gateway.cfm?id=3053260&ftid=1869793&dwn=1 [following]
+--2017-12-05 02:52:38--  http://dl.acm.org/ft_gateway.cfm?id=3053260&ftid=1869793&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053260&ftid=1869793&dwn=1 [following]
+--2017-12-05 02:52:38--  https://dl.acm.org/ft_gateway.cfm?id=3053260&ftid=1869793&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://delivery.acm.org/10.1145/3060000/3053260/ea2922-scheuerman.pdf?ip=141.54.140.141&id=3053260&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=837151869&CFTOKEN=92773010&__acm__=1512439058_f7abe81f4399422ec6ff345070c4f94a [following]
+--2017-12-05 02:52:39--  http://delivery.acm.org/10.1145/3060000/3053260/ea2922-scheuerman.pdf?ip=141.54.140.141&id=3053260&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=837151869&CFTOKEN=92773010&__acm__=1512439058_f7abe81f4399422ec6ff345070c4f94a
+Resolving delivery.acm.org (delivery.acm.org)... 88.221.214.58, 88.221.214.40
+Connecting to delivery.acm.org (delivery.acm.org)|88.221.214.58|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 691769 (676K) [application/pdf]
+Saving to: ‘ft_gateway.cfm?id=3053260&ftid=1869793&dwn=1&CFID=1013429608&CFTOKEN=53764259’
+
+ft_gateway.cfm?id=3053260&ftid=1869793&dwn=1&CFID=10 100%[=====================================================================================================================>] 675,56K   377KB/s    in 1,8s
+
+2017-12-05 02:52:41 (377 KB/s) - ‘ft_gateway.cfm?id=3053260&ftid=1869793&dwn=1&CFID=1013429608&CFTOKEN=53764259’ saved [691769/691769]
+
+http://dl.acm.org/authorize?N35301 authorize?N35301
+--2017-12-05 02:53:05--  http://dl.acm.org/authorize?N35301
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize?N35301 [following]
+--2017-12-05 02:53:06--  https://dl.acm.org/authorize?N35301
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize.cfm?key=N35301 [following]
+--2017-12-05 02:53:06--  https://dl.acm.org/authorize.cfm?key=N35301
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: citation.cfm?id=3053275&CFID=837152051&CFTOKEN=92225899 [following]
+--2017-12-05 02:53:07--  https://dl.acm.org/citation.cfm?id=3053275&CFID=837152051&CFTOKEN=92225899
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘authorize?N35301’
+
+authorize?N35301                                         [  <=>                                                                                                                 ]  53,43K   124KB/s    in 0,4s
+
+2017-12-05 02:53:08 (124 KB/s) - ‘authorize?N35301’ saved [54715]
+
+ft_gateway.cfm?id=3053275&ftid=1869755&dwn=1&CFID=837152051&CFTOKEN=92225899
+--2017-12-05 02:53:29--  http://dl.acm.org/ft_gateway.cfm?id=3053275&ftid=1869755&dwn=1&CFID=837152051&CFTOKEN=92225899
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053275&ftid=1869755&dwn=1&CFID=837152051&CFTOKEN=92225899 [following]
+--2017-12-05 02:53:30--  https://dl.acm.org/ft_gateway.cfm?id=3053275&ftid=1869755&dwn=1&CFID=837152051&CFTOKEN=92225899
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://dl.acm.org/ft_gateway.cfm?id=3053275&ftid=1869755&dwn=1 [following]
+--2017-12-05 02:53:30--  http://dl.acm.org/ft_gateway.cfm?id=3053275&ftid=1869755&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053275&ftid=1869755&dwn=1 [following]
+--2017-12-05 02:53:31--  https://dl.acm.org/ft_gateway.cfm?id=3053275&ftid=1869755&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://delivery.acm.org/10.1145/3060000/3053275/ea2929-shema.pdf?ip=141.54.140.141&id=3053275&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=837152201&CFTOKEN=49417641&__acm__=1512439111_b3c4acd64a07f241c63483b2c8e2d140 [following]
+--2017-12-05 02:53:31--  http://delivery.acm.org/10.1145/3060000/3053275/ea2929-shema.pdf?ip=141.54.140.141&id=3053275&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=837152201&CFTOKEN=49417641&__acm__=1512439111_b3c4acd64a07f241c63483b2c8e2d140
+Resolving delivery.acm.org (delivery.acm.org)... 88.221.214.58, 88.221.214.40
+Connecting to delivery.acm.org (delivery.acm.org)|88.221.214.58|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 686065 (670K) [application/pdf]
+Saving to: ‘ft_gateway.cfm?id=3053275&ftid=1869755&dwn=1&CFID=837152051&CFTOKEN=92225899’
+
+ft_gateway.cfm?id=3053275&ftid=1869755&dwn=1&CFID=83 100%[=====================================================================================================================>] 669,99K  1,15MB/s    in 0,6s
+
+2017-12-05 02:53:32 (1,15 MB/s) - ‘ft_gateway.cfm?id=3053275&ftid=1869755&dwn=1&CFID=837152051&CFTOKEN=92225899’ saved [686065/686065]
+
+http://dl.acm.org/authorize?N35302 authorize?N35302
+--2017-12-05 02:54:20--  http://dl.acm.org/authorize?N35302
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.56, 64.238.147.53
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize?N35302 [following]
+--2017-12-05 02:54:21--  https://dl.acm.org/authorize?N35302
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize.cfm?key=N35302 [following]
+--2017-12-05 02:54:21--  https://dl.acm.org/authorize.cfm?key=N35302
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: citation.cfm?id=3053219&CFID=1013429977&CFTOKEN=15119766 [following]
+--2017-12-05 02:54:22--  https://dl.acm.org/citation.cfm?id=3053219&CFID=1013429977&CFTOKEN=15119766
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘authorize?N35302’
+
+authorize?N35302                                         [  <=>                                                                                                                 ]  54,78K   133KB/s    in 0,4s
+
+2017-12-05 02:54:24 (133 KB/s) - ‘authorize?N35302’ saved [56094]
+
+ft_gateway.cfm?id=3053219&ftid=1869723&dwn=1&CFID=1013429977&CFTOKEN=15119766
+--2017-12-05 02:55:16--  http://dl.acm.org/ft_gateway.cfm?id=3053219&ftid=1869723&dwn=1&CFID=1013429977&CFTOKEN=15119766
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.56, 64.238.147.53
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053219&ftid=1869723&dwn=1&CFID=1013429977&CFTOKEN=15119766 [following]
+--2017-12-05 02:55:16--  https://dl.acm.org/ft_gateway.cfm?id=3053219&ftid=1869723&dwn=1&CFID=1013429977&CFTOKEN=15119766
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://dl.acm.org/ft_gateway.cfm?id=3053219&ftid=1869723&dwn=1 [following]
+--2017-12-05 02:55:17--  http://dl.acm.org/ft_gateway.cfm?id=3053219&ftid=1869723&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053219&ftid=1869723&dwn=1 [following]
+--2017-12-05 02:55:17--  https://dl.acm.org/ft_gateway.cfm?id=3053219&ftid=1869723&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://delivery.acm.org/10.1145/3060000/3053219/ea2936-steer.pdf?ip=141.54.140.141&id=3053219&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=1013430167&CFTOKEN=53365595&__acm__=1512439217_12d8b5251e881f78139860443bc3d3df [following]
+--2017-12-05 02:55:18--  http://delivery.acm.org/10.1145/3060000/3053219/ea2936-steer.pdf?ip=141.54.140.141&id=3053219&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=1013430167&CFTOKEN=53365595&__acm__=1512439217_12d8b5251e881f78139860443bc3d3df
+Resolving delivery.acm.org (delivery.acm.org)... 88.221.214.58, 88.221.214.40
+Connecting to delivery.acm.org (delivery.acm.org)|88.221.214.58|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 890416 (870K) [application/pdf]
+Saving to: ‘ft_gateway.cfm?id=3053219&ftid=1869723&dwn=1&CFID=1013429977&CFTOKEN=15119766’
+
+ft_gateway.cfm?id=3053219&ftid=1869723&dwn=1&CFID=10 100%[=====================================================================================================================>] 869,55K   858KB/s    in 1,0s
+
+2017-12-05 02:55:20 (858 KB/s) - ‘ft_gateway.cfm?id=3053219&ftid=1869723&dwn=1&CFID=1013429977&CFTOKEN=15119766’ saved [890416/890416]
+
+http://dl.acm.org/authorize?N35303 authorize?N35303
+--2017-12-05 02:55:37--  http://dl.acm.org/authorize?N35303
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize?N35303 [following]
+--2017-12-05 02:55:37--  https://dl.acm.org/authorize?N35303
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize.cfm?key=N35303 [following]
+--2017-12-05 02:55:38--  https://dl.acm.org/authorize.cfm?key=N35303
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: citation.cfm?id=3053250&CFID=837152894&CFTOKEN=89713200 [following]
+--2017-12-05 02:55:39--  https://dl.acm.org/citation.cfm?id=3053250&CFID=837152894&CFTOKEN=89713200
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘authorize?N35303’
+
+authorize?N35303                                         [  <=>                                                                                                                 ]  55,00K   131KB/s    in 0,4s
+
+2017-12-05 02:55:42 (131 KB/s) - ‘authorize?N35303’ saved [56317]
+
+ft_gateway.cfm?id=3053250&ftid=1869711&dwn=1&CFID=837152894&CFTOKEN=89713200
+--2017-12-05 02:56:41--  http://dl.acm.org/ft_gateway.cfm?id=3053250&ftid=1869711&dwn=1&CFID=837152894&CFTOKEN=89713200
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053250&ftid=1869711&dwn=1&CFID=837152894&CFTOKEN=89713200 [following]
+--2017-12-05 02:56:42--  https://dl.acm.org/ft_gateway.cfm?id=3053250&ftid=1869711&dwn=1&CFID=837152894&CFTOKEN=89713200
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://dl.acm.org/ft_gateway.cfm?id=3053250&ftid=1869711&dwn=1 [following]
+--2017-12-05 02:56:42--  http://dl.acm.org/ft_gateway.cfm?id=3053250&ftid=1869711&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053250&ftid=1869711&dwn=1 [following]
+--2017-12-05 02:56:43--  https://dl.acm.org/ft_gateway.cfm?id=3053250&ftid=1869711&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://delivery.acm.org/10.1145/3060000/3053250/ea2944-sun.pdf?ip=141.54.140.141&id=3053250&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=837153249&CFTOKEN=57452489&__acm__=1512439303_aad65f979de0ddb02091d38f639e8f7b [following]
+--2017-12-05 02:56:43--  http://delivery.acm.org/10.1145/3060000/3053250/ea2944-sun.pdf?ip=141.54.140.141&id=3053250&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=837153249&CFTOKEN=57452489&__acm__=1512439303_aad65f979de0ddb02091d38f639e8f7b
+Resolving delivery.acm.org (delivery.acm.org)... 88.221.214.40, 88.221.214.58
+Connecting to delivery.acm.org (delivery.acm.org)|88.221.214.40|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1940281 (1,8M) [application/pdf]
+Saving to: ‘ft_gateway.cfm?id=3053250&ftid=1869711&dwn=1&CFID=837152894&CFTOKEN=89713200’
+
+ft_gateway.cfm?id=3053250&ftid=1869711&dwn=1&CFID=83 100%[=====================================================================================================================>]   1,85M  1,16MB/s    in 1,6s
+
+2017-12-05 02:56:46 (1,16 MB/s) - ‘ft_gateway.cfm?id=3053250&ftid=1869711&dwn=1&CFID=837152894&CFTOKEN=89713200’ saved [1940281/1940281]
+
+http://dl.acm.org/authorize?N35304 authorize?N35304
+--2017-12-05 02:58:05--  http://dl.acm.org/authorize?N35304
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize?N35304 [following]
+--2017-12-05 02:58:05--  https://dl.acm.org/authorize?N35304
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize.cfm?key=N35304 [following]
+--2017-12-05 02:58:06--  https://dl.acm.org/authorize.cfm?key=N35304
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: citation.cfm?id=3053187&CFID=837153701&CFTOKEN=46915908 [following]
+--2017-12-05 02:58:06--  https://dl.acm.org/citation.cfm?id=3053187&CFID=837153701&CFTOKEN=46915908
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘authorize?N35304’
+
+authorize?N35304                                         [  <=>                                                                                                                 ]  55,89K   141KB/s    in 0,4s
+
+2017-12-05 02:58:08 (141 KB/s) - ‘authorize?N35304’ saved [57232]
+
+ft_gateway.cfm?id=3053187&ftid=1869712&dwn=1&CFID=837153701&CFTOKEN=46915908
+--2017-12-05 02:59:17--  http://dl.acm.org/ft_gateway.cfm?id=3053187&ftid=1869712&dwn=1&CFID=837153701&CFTOKEN=46915908
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053187&ftid=1869712&dwn=1&CFID=837153701&CFTOKEN=46915908 [following]
+--2017-12-05 02:59:17--  https://dl.acm.org/ft_gateway.cfm?id=3053187&ftid=1869712&dwn=1&CFID=837153701&CFTOKEN=46915908
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://dl.acm.org/ft_gateway.cfm?id=3053187&ftid=1869712&dwn=1 [following]
+--2017-12-05 02:59:18--  http://dl.acm.org/ft_gateway.cfm?id=3053187&ftid=1869712&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053187&ftid=1869712&dwn=1 [following]
+--2017-12-05 02:59:18--  https://dl.acm.org/ft_gateway.cfm?id=3053187&ftid=1869712&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://delivery.acm.org/10.1145/3060000/3053187/ea2951-suzuki.pdf?ip=141.54.140.141&id=3053187&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=837154072&CFTOKEN=26969410&__acm__=1512439459_c246e6df800c54ac2b5599fc9581a175 [following]
+--2017-12-05 02:59:19--  http://delivery.acm.org/10.1145/3060000/3053187/ea2951-suzuki.pdf?ip=141.54.140.141&id=3053187&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=837154072&CFTOKEN=26969410&__acm__=1512439459_c246e6df800c54ac2b5599fc9581a175
+Resolving delivery.acm.org (delivery.acm.org)... 88.221.214.40, 88.221.214.58
+Connecting to delivery.acm.org (delivery.acm.org)|88.221.214.40|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 929987 (908K) [application/pdf]
+Saving to: ‘ft_gateway.cfm?id=3053187&ftid=1869712&dwn=1&CFID=837153701&CFTOKEN=46915908’
+
+ft_gateway.cfm?id=3053187&ftid=1869712&dwn=1&CFID=83 100%[=====================================================================================================================>] 908,19K   947KB/s    in 1,0s
+
+2017-12-05 02:59:21 (947 KB/s) - ‘ft_gateway.cfm?id=3053187&ftid=1869712&dwn=1&CFID=837153701&CFTOKEN=46915908’ saved [929987/929987]
+
+http://dl.acm.org/authorize?N35315 authorize?N35315
+--2017-12-05 03:00:09--  http://dl.acm.org/authorize?N35315
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize?N35315 [following]
+--2017-12-05 03:00:09--  https://dl.acm.org/authorize?N35315
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize.cfm?key=N35315 [following]
+--2017-12-05 03:00:09--  https://dl.acm.org/authorize.cfm?key=N35315
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: citation.cfm?id=3053243&CFID=837154217&CFTOKEN=15519129 [following]
+--2017-12-05 03:00:10--  https://dl.acm.org/citation.cfm?id=3053243&CFID=837154217&CFTOKEN=15519129
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘authorize?N35315’
+
+authorize?N35315                                         [  <=>                                                                                                                 ]  57,60K   138KB/s    in 0,4s
+
+2017-12-05 03:00:12 (138 KB/s) - ‘authorize?N35315’ saved [58985]
+
+ft_gateway.cfm?id=3053243&ftid=1869790&dwn=1&CFID=837154217&CFTOKEN=15519129
+--2017-12-05 03:01:16--  http://dl.acm.org/ft_gateway.cfm?id=3053243&ftid=1869790&dwn=1&CFID=837154217&CFTOKEN=15519129
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053243&ftid=1869790&dwn=1&CFID=837154217&CFTOKEN=15519129 [following]
+--2017-12-05 03:01:16--  https://dl.acm.org/ft_gateway.cfm?id=3053243&ftid=1869790&dwn=1&CFID=837154217&CFTOKEN=15519129
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://dl.acm.org/ft_gateway.cfm?id=3053243&ftid=1869790&dwn=1 [following]
+--2017-12-05 03:01:17--  http://dl.acm.org/ft_gateway.cfm?id=3053243&ftid=1869790&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053243&ftid=1869790&dwn=1 [following]
+--2017-12-05 03:01:17--  https://dl.acm.org/ft_gateway.cfm?id=3053243&ftid=1869790&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://delivery.acm.org/10.1145/3060000/3053243/ea2959-tag.pdf?ip=141.54.140.141&id=3053243&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=837154405&CFTOKEN=17938473&__acm__=1512439578_d73a1cb29e047503832a6adc6f52ebf2 [following]
+--2017-12-05 03:01:18--  http://delivery.acm.org/10.1145/3060000/3053243/ea2959-tag.pdf?ip=141.54.140.141&id=3053243&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=837154405&CFTOKEN=17938473&__acm__=1512439578_d73a1cb29e047503832a6adc6f52ebf2
+Resolving delivery.acm.org (delivery.acm.org)... 88.221.214.58, 88.221.214.40
+Connecting to delivery.acm.org (delivery.acm.org)|88.221.214.58|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8878904 (8,5M) [application/pdf]
+Saving to: ‘ft_gateway.cfm?id=3053243&ftid=1869790&dwn=1&CFID=837154217&CFTOKEN=15519129’
+
+ft_gateway.cfm?id=3053243&ftid=1869790&dwn=1&CFID=83 100%[=====================================================================================================================>]   8,47M  1,37MB/s    in 6,6s
+
+2017-12-05 03:01:25 (1,28 MB/s) - ‘ft_gateway.cfm?id=3053243&ftid=1869790&dwn=1&CFID=837154217&CFTOKEN=15519129’ saved [8878904/8878904]
+
+http://dl.acm.org/authorize?N35316 authorize?N35316
+--2017-12-05 03:01:41--  http://dl.acm.org/authorize?N35316
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.56, 64.238.147.53
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize?N35316 [following]
+--2017-12-05 03:01:42--  https://dl.acm.org/authorize?N35316
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize.cfm?key=N35316 [following]
+--2017-12-05 03:01:42--  https://dl.acm.org/authorize.cfm?key=N35316
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: citation.cfm?id=3053225&CFID=1013431599&CFTOKEN=44538670 [following]
+--2017-12-05 03:01:43--  https://dl.acm.org/citation.cfm?id=3053225&CFID=1013431599&CFTOKEN=44538670
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘authorize?N35316’
+
+authorize?N35316                                         [  <=>                                                                                                                 ]  58,15K   129KB/s    in 0,4s
+
+2017-12-05 03:01:45 (129 KB/s) - ‘authorize?N35316’ saved [59550]
+
+ft_gateway.cfm?id=3053225&ftid=1869804&dwn=1&CFID=1013431599&CFTOKEN=44538670
+--2017-12-05 03:02:45--  http://dl.acm.org/ft_gateway.cfm?id=3053225&ftid=1869804&dwn=1&CFID=1013431599&CFTOKEN=44538670
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053225&ftid=1869804&dwn=1&CFID=1013431599&CFTOKEN=44538670 [following]
+--2017-12-05 03:02:45--  https://dl.acm.org/ft_gateway.cfm?id=3053225&ftid=1869804&dwn=1&CFID=1013431599&CFTOKEN=44538670
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://dl.acm.org/ft_gateway.cfm?id=3053225&ftid=1869804&dwn=1 [following]
+--2017-12-05 03:02:46--  http://dl.acm.org/ft_gateway.cfm?id=3053225&ftid=1869804&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053225&ftid=1869804&dwn=1 [following]
+--2017-12-05 03:02:46--  https://dl.acm.org/ft_gateway.cfm?id=3053225&ftid=1869804&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://delivery.acm.org/10.1145/3060000/3053225/ea2967-tse.pdf?ip=141.54.140.141&id=3053225&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=837154654&CFTOKEN=70557139&__acm__=1512439667_03f267b1373b411e56008df382e29b5f [following]
+--2017-12-05 03:02:47--  http://delivery.acm.org/10.1145/3060000/3053225/ea2967-tse.pdf?ip=141.54.140.141&id=3053225&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=837154654&CFTOKEN=70557139&__acm__=1512439667_03f267b1373b411e56008df382e29b5f
+Resolving delivery.acm.org (delivery.acm.org)... 88.221.214.58, 88.221.214.40
+Connecting to delivery.acm.org (delivery.acm.org)|88.221.214.58|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1587412 (1,5M) [application/pdf]
+Saving to: ‘ft_gateway.cfm?id=3053225&ftid=1869804&dwn=1&CFID=1013431599&CFTOKEN=44538670’
+
+ft_gateway.cfm?id=3053225&ftid=1869804&dwn=1&CFID=10 100%[=====================================================================================================================>]   1,51M   958KB/s    in 1,6s
+
+2017-12-05 03:02:49 (958 KB/s) - ‘ft_gateway.cfm?id=3053225&ftid=1869804&dwn=1&CFID=1013431599&CFTOKEN=44538670’ saved [1587412/1587412]
+
+http://dl.acm.org/authorize?N35317 authorize?N35317
+--2017-12-05 03:03:59--  http://dl.acm.org/authorize?N35317
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.56, 64.238.147.53
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize?N35317 [following]
+--2017-12-05 03:03:59--  https://dl.acm.org/authorize?N35317
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize.cfm?key=N35317 [following]
+--2017-12-05 03:04:00--  https://dl.acm.org/authorize.cfm?key=N35317
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: citation.cfm?id=3053189&CFID=1013432291&CFTOKEN=45128589 [following]
+--2017-12-05 03:04:01--  https://dl.acm.org/citation.cfm?id=3053189&CFID=1013432291&CFTOKEN=45128589
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘authorize?N35317’
+
+authorize?N35317                                         [  <=>                                                                                                                 ]  53,27K   130KB/s    in 0,4s
+
+2017-12-05 03:04:03 (130 KB/s) - ‘authorize?N35317’ saved [54551]
+
+ft_gateway.cfm?id=3053189&ftid=1869738&dwn=1&CFID=1013432291&CFTOKEN=45128589
+--2017-12-05 03:04:18--  http://dl.acm.org/ft_gateway.cfm?id=3053189&ftid=1869738&dwn=1&CFID=1013432291&CFTOKEN=45128589
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053189&ftid=1869738&dwn=1&CFID=1013432291&CFTOKEN=45128589 [following]
+--2017-12-05 03:04:18--  https://dl.acm.org/ft_gateway.cfm?id=3053189&ftid=1869738&dwn=1&CFID=1013432291&CFTOKEN=45128589
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://dl.acm.org/ft_gateway.cfm?id=3053189&ftid=1869738&dwn=1 [following]
+--2017-12-05 03:04:19--  http://dl.acm.org/ft_gateway.cfm?id=3053189&ftid=1869738&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053189&ftid=1869738&dwn=1 [following]
+--2017-12-05 03:04:19--  https://dl.acm.org/ft_gateway.cfm?id=3053189&ftid=1869738&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://delivery.acm.org/10.1145/3060000/3053189/ea2975-tseng.pdf?ip=141.54.140.141&id=3053189&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=837154942&CFTOKEN=10096544&__acm__=1512439759_01d29677f46e0a804b986c40305a924e [following]
+--2017-12-05 03:04:20--  http://delivery.acm.org/10.1145/3060000/3053189/ea2975-tseng.pdf?ip=141.54.140.141&id=3053189&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=837154942&CFTOKEN=10096544&__acm__=1512439759_01d29677f46e0a804b986c40305a924e
+Resolving delivery.acm.org (delivery.acm.org)... 88.221.214.58, 88.221.214.40
+Connecting to delivery.acm.org (delivery.acm.org)|88.221.214.58|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1294354 (1,2M) [application/pdf]
+Saving to: ‘ft_gateway.cfm?id=3053189&ftid=1869738&dwn=1&CFID=1013432291&CFTOKEN=45128589’
+
+ft_gateway.cfm?id=3053189&ftid=1869738&dwn=1&CFID=10 100%[=====================================================================================================================>]   1,23M  1,30MB/s    in 1,0s
+
+2017-12-05 03:04:21 (1,30 MB/s) - ‘ft_gateway.cfm?id=3053189&ftid=1869738&dwn=1&CFID=1013432291&CFTOKEN=45128589’ saved [1294354/1294354]
+
+http://dl.acm.org/authorize?N35318 authorize?N35318
+--2017-12-05 03:04:48--  http://dl.acm.org/authorize?N35318
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize?N35318 [following]
+--2017-12-05 03:04:49--  https://dl.acm.org/authorize?N35318
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize.cfm?key=N35318 [following]
+--2017-12-05 03:04:50--  https://dl.acm.org/authorize.cfm?key=N35318
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: citation.cfm?id=3053202&CFID=837155106&CFTOKEN=10412439 [following]
+--2017-12-05 03:04:51--  https://dl.acm.org/citation.cfm?id=3053202&CFID=837155106&CFTOKEN=10412439
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘authorize?N35318’
+
+authorize?N35318                                         [  <=>                                                                                                                 ]  57,06K   141KB/s    in 0,4s
+
+2017-12-05 03:04:52 (141 KB/s) - ‘authorize?N35318’ saved [58429]
+
+ft_gateway.cfm?id=3053202&ftid=1869796&dwn=1&CFID=837155106&CFTOKEN=10412439
+--2017-12-05 03:05:52--  http://dl.acm.org/ft_gateway.cfm?id=3053202&ftid=1869796&dwn=1&CFID=837155106&CFTOKEN=10412439
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.56, 64.238.147.53
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053202&ftid=1869796&dwn=1&CFID=837155106&CFTOKEN=10412439 [following]
+--2017-12-05 03:05:53--  https://dl.acm.org/ft_gateway.cfm?id=3053202&ftid=1869796&dwn=1&CFID=837155106&CFTOKEN=10412439
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://dl.acm.org/ft_gateway.cfm?id=3053202&ftid=1869796&dwn=1 [following]
+--2017-12-05 03:05:53--  http://dl.acm.org/ft_gateway.cfm?id=3053202&ftid=1869796&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053202&ftid=1869796&dwn=1 [following]
+--2017-12-05 03:05:54--  https://dl.acm.org/ft_gateway.cfm?id=3053202&ftid=1869796&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://delivery.acm.org/10.1145/3060000/3053202/ea2982-walch.pdf?ip=141.54.140.141&id=3053202&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=1013432611&CFTOKEN=23542691&__acm__=1512439853_57e0b71b7ea2efa2d9b8c52eafa0545f [following]
+--2017-12-05 03:05:54--  http://delivery.acm.org/10.1145/3060000/3053202/ea2982-walch.pdf?ip=141.54.140.141&id=3053202&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=1013432611&CFTOKEN=23542691&__acm__=1512439853_57e0b71b7ea2efa2d9b8c52eafa0545f
+Resolving delivery.acm.org (delivery.acm.org)... 88.221.214.58, 88.221.214.40
+Connecting to delivery.acm.org (delivery.acm.org)|88.221.214.58|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6387075 (6,1M) [application/pdf]
+Saving to: ‘ft_gateway.cfm?id=3053202&ftid=1869796&dwn=1&CFID=837155106&CFTOKEN=10412439’
+
+ft_gateway.cfm?id=3053202&ftid=1869796&dwn=1&CFID=83 100%[=====================================================================================================================>]   6,09M  1,23MB/s    in 4,9s
+
+2017-12-05 03:06:00 (1,25 MB/s) - ‘ft_gateway.cfm?id=3053202&ftid=1869796&dwn=1&CFID=837155106&CFTOKEN=10412439’ saved [6387075/6387075]
+
+http://dl.acm.org/authorize?N35319 authorize?N35319
+--2017-12-05 03:06:55--  http://dl.acm.org/authorize?N35319
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize?N35319 [following]
+--2017-12-05 03:06:55--  https://dl.acm.org/authorize?N35319
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize.cfm?key=N35319 [following]
+--2017-12-05 03:06:56--  https://dl.acm.org/authorize.cfm?key=N35319
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: citation.cfm?id=3053239&CFID=837155822&CFTOKEN=17854405 [following]
+--2017-12-05 03:06:56--  https://dl.acm.org/citation.cfm?id=3053239&CFID=837155822&CFTOKEN=17854405
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘authorize?N35319’
+
+authorize?N35319                                         [  <=>                                                                                                                 ]  56,65K   140KB/s    in 0,4s
+
+2017-12-05 03:06:58 (140 KB/s) - ‘authorize?N35319’ saved [58008]
+
+ft_gateway.cfm?id=3053239&ftid=1869784&dwn=1&CFID=837155822&CFTOKEN=17854405
+--2017-12-05 03:08:14--  http://dl.acm.org/ft_gateway.cfm?id=3053239&ftid=1869784&dwn=1&CFID=837155822&CFTOKEN=17854405
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.56, 64.238.147.53
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053239&ftid=1869784&dwn=1&CFID=837155822&CFTOKEN=17854405 [following]
+--2017-12-05 03:08:14--  https://dl.acm.org/ft_gateway.cfm?id=3053239&ftid=1869784&dwn=1&CFID=837155822&CFTOKEN=17854405
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://dl.acm.org/ft_gateway.cfm?id=3053239&ftid=1869784&dwn=1 [following]
+--2017-12-05 03:08:15--  http://dl.acm.org/ft_gateway.cfm?id=3053239&ftid=1869784&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053239&ftid=1869784&dwn=1 [following]
+--2017-12-05 03:08:15--  https://dl.acm.org/ft_gateway.cfm?id=3053239&ftid=1869784&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://delivery.acm.org/10.1145/3060000/3053239/ea2990-wang.pdf?ip=141.54.140.141&id=3053239&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=1013433071&CFTOKEN=90417479&__acm__=1512439995_00ce02dea5e6f78fd7e0dbe42eee7943 [following]
+--2017-12-05 03:08:16--  http://delivery.acm.org/10.1145/3060000/3053239/ea2990-wang.pdf?ip=141.54.140.141&id=3053239&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=1013433071&CFTOKEN=90417479&__acm__=1512439995_00ce02dea5e6f78fd7e0dbe42eee7943
+Resolving delivery.acm.org (delivery.acm.org)... 88.221.214.58, 88.221.214.40
+Connecting to delivery.acm.org (delivery.acm.org)|88.221.214.58|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 998274 (975K) [application/pdf]
+Saving to: ‘ft_gateway.cfm?id=3053239&ftid=1869784&dwn=1&CFID=837155822&CFTOKEN=17854405’
+
+ft_gateway.cfm?id=3053239&ftid=1869784&dwn=1&CFID=83 100%[=====================================================================================================================>] 974,88K   852KB/s    in 1,1s
+
+2017-12-05 03:08:18 (852 KB/s) - ‘ft_gateway.cfm?id=3053239&ftid=1869784&dwn=1&CFID=837155822&CFTOKEN=17854405’ saved [998274/998274]
+
+http://dl.acm.org/authorize?N35310 authorize?N35310
+--2017-12-05 03:09:38--  http://dl.acm.org/authorize?N35310
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize?N35310 [following]
+--2017-12-05 03:09:38--  https://dl.acm.org/authorize?N35310
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize.cfm?key=N35310 [following]
+--2017-12-05 03:09:39--  https://dl.acm.org/authorize.cfm?key=N35310
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: citation.cfm?id=3053181&CFID=837156522&CFTOKEN=57389649 [following]
+--2017-12-05 03:09:40--  https://dl.acm.org/citation.cfm?id=3053181&CFID=837156522&CFTOKEN=57389649
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘authorize?N35310’
+
+authorize?N35310                                         [  <=>                                                                                                                 ]  57,77K   140KB/s    in 0,4s
+
+2017-12-05 03:09:42 (140 KB/s) - ‘authorize?N35310’ saved [59160]
+
+ft_gateway.cfm?id=3053181&ftid=1869715&dwn=1&CFID=837156522&CFTOKEN=57389649
+--2017-12-05 03:10:19--  http://dl.acm.org/ft_gateway.cfm?id=3053181&ftid=1869715&dwn=1&CFID=837156522&CFTOKEN=57389649
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053181&ftid=1869715&dwn=1&CFID=837156522&CFTOKEN=57389649 [following]
+--2017-12-05 03:10:19--  https://dl.acm.org/ft_gateway.cfm?id=3053181&ftid=1869715&dwn=1&CFID=837156522&CFTOKEN=57389649
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://dl.acm.org/ft_gateway.cfm?id=3053181&ftid=1869715&dwn=1 [following]
+--2017-12-05 03:10:19--  http://dl.acm.org/ft_gateway.cfm?id=3053181&ftid=1869715&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053181&ftid=1869715&dwn=1 [following]
+--2017-12-05 03:10:20--  https://dl.acm.org/ft_gateway.cfm?id=3053181&ftid=1869715&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://delivery.acm.org/10.1145/3060000/3053181/ea2998-wang.pdf?ip=141.54.140.141&id=3053181&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=837156630&CFTOKEN=51532728&__acm__=1512440119_5f2ba71685c3d38689dbac37e093511f [following]
+--2017-12-05 03:10:20--  http://delivery.acm.org/10.1145/3060000/3053181/ea2998-wang.pdf?ip=141.54.140.141&id=3053181&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=837156630&CFTOKEN=51532728&__acm__=1512440119_5f2ba71685c3d38689dbac37e093511f
+Resolving delivery.acm.org (delivery.acm.org)... 88.221.214.58, 88.221.214.40
+Connecting to delivery.acm.org (delivery.acm.org)|88.221.214.58|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 947940 (926K) [application/pdf]
+Saving to: ‘ft_gateway.cfm?id=3053181&ftid=1869715&dwn=1&CFID=837156522&CFTOKEN=57389649’
+
+ft_gateway.cfm?id=3053181&ftid=1869715&dwn=1&CFID=83 100%[=====================================================================================================================>] 925,72K  1,04MB/s    in 0,9s
+
+2017-12-05 03:10:22 (1,04 MB/s) - ‘ft_gateway.cfm?id=3053181&ftid=1869715&dwn=1&CFID=837156522&CFTOKEN=57389649’ saved [947940/947940]
+
+http://dl.acm.org/authorize?N35311 authorize?N35311
+--2017-12-05 03:10:52--  http://dl.acm.org/authorize?N35311
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.56, 64.238.147.53
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize?N35311 [following]
+--2017-12-05 03:10:53--  https://dl.acm.org/authorize?N35311
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize.cfm?key=N35311 [following]
+--2017-12-05 03:10:53--  https://dl.acm.org/authorize.cfm?key=N35311
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: citation.cfm?id=3053195&CFID=1013433927&CFTOKEN=59725620 [following]
+--2017-12-05 03:10:54--  https://dl.acm.org/citation.cfm?id=3053195&CFID=1013433927&CFTOKEN=59725620
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘authorize?N35311’
+
+authorize?N35311                                         [  <=>                                                                                                                 ]  55,22K   136KB/s    in 0,4s
+
+2017-12-05 03:10:56 (136 KB/s) - ‘authorize?N35311’ saved [56549]
+
+ft_gateway.cfm?id=3053195&ftid=1869757&dwn=1&CFID=1013433927&CFTOKEN=59725620
+--2017-12-05 03:12:06--  http://dl.acm.org/ft_gateway.cfm?id=3053195&ftid=1869757&dwn=1&CFID=1013433927&CFTOKEN=59725620
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... failed: Connection timed out.
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... failed: Connection timed out.
+Retrying.
+
+--2017-12-05 03:16:21--  (try: 2)  http://dl.acm.org/ft_gateway.cfm?id=3053195&ftid=1869757&dwn=1&CFID=1013433927&CFTOKEN=59725620
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053195&ftid=1869757&dwn=1&CFID=1013433927&CFTOKEN=59725620 [following]
+--2017-12-05 03:16:22--  https://dl.acm.org/ft_gateway.cfm?id=3053195&ftid=1869757&dwn=1&CFID=1013433927&CFTOKEN=59725620
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://dl.acm.org/ft_gateway.cfm?id=3053195&ftid=1869757&dwn=1 [following]
+--2017-12-05 03:16:22--  http://dl.acm.org/ft_gateway.cfm?id=3053195&ftid=1869757&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053195&ftid=1869757&dwn=1 [following]
+--2017-12-05 03:16:22--  https://dl.acm.org/ft_gateway.cfm?id=3053195&ftid=1869757&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://delivery.acm.org/10.1145/3060000/3053195/ea3005-wikstrom.pdf?ip=141.54.140.141&id=3053195&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=837157110&CFTOKEN=96891405&__acm__=1512440482_50cf1e5ee15cdc2dba13d546fbb1f2b7 [following]
+--2017-12-05 03:16:23--  http://delivery.acm.org/10.1145/3060000/3053195/ea3005-wikstrom.pdf?ip=141.54.140.141&id=3053195&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=837157110&CFTOKEN=96891405&__acm__=1512440482_50cf1e5ee15cdc2dba13d546fbb1f2b7
+Resolving delivery.acm.org (delivery.acm.org)... 88.221.214.58, 88.221.214.40
+Connecting to delivery.acm.org (delivery.acm.org)|88.221.214.58|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2542148 (2,4M) [application/pdf]
+Saving to: ‘ft_gateway.cfm?id=3053195&ftid=1869757&dwn=1&CFID=1013433927&CFTOKEN=59725620’
+
+ft_gateway.cfm?id=3053195&ftid=1869757&dwn=1&CFID=10 100%[=====================================================================================================================>]   2,42M  1,21MB/s    in 2,0s
+
+2017-12-05 03:16:26 (1,21 MB/s) - ‘ft_gateway.cfm?id=3053195&ftid=1869757&dwn=1&CFID=1013433927&CFTOKEN=59725620’ saved [2542148/2542148]
+
+http://dl.acm.org/authorize?N35312 authorize?N35312
+--2017-12-05 03:17:08--  http://dl.acm.org/authorize?N35312
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.56, 64.238.147.53
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize?N35312 [following]
+--2017-12-05 03:17:08--  https://dl.acm.org/authorize?N35312
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize.cfm?key=N35312 [following]
+--2017-12-05 03:17:09--  https://dl.acm.org/authorize.cfm?key=N35312
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: citation.cfm?id=3053247&CFID=1013434529&CFTOKEN=94016474 [following]
+--2017-12-05 03:17:09--  https://dl.acm.org/citation.cfm?id=3053247&CFID=1013434529&CFTOKEN=94016474
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘authorize?N35312’
+
+authorize?N35312                                         [  <=>                                                                                                                 ]  56,14K   139KB/s    in 0,4s
+
+2017-12-05 03:17:11 (139 KB/s) - ‘authorize?N35312’ saved [57486]
+
+ft_gateway.cfm?id=3053247&ftid=1869733&dwn=1&CFID=1013434529&CFTOKEN=94016474
+--2017-12-05 03:17:53--  http://dl.acm.org/ft_gateway.cfm?id=3053247&ftid=1869733&dwn=1&CFID=1013434529&CFTOKEN=94016474
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.56, 64.238.147.53
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053247&ftid=1869733&dwn=1&CFID=1013434529&CFTOKEN=94016474 [following]
+--2017-12-05 03:17:54--  https://dl.acm.org/ft_gateway.cfm?id=3053247&ftid=1869733&dwn=1&CFID=1013434529&CFTOKEN=94016474
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://dl.acm.org/ft_gateway.cfm?id=3053247&ftid=1869733&dwn=1 [following]
+--2017-12-05 03:17:54--  http://dl.acm.org/ft_gateway.cfm?id=3053247&ftid=1869733&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053247&ftid=1869733&dwn=1 [following]
+--2017-12-05 03:17:55--  https://dl.acm.org/ft_gateway.cfm?id=3053247&ftid=1869733&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://delivery.acm.org/10.1145/3060000/3053247/ea3012-williams.pdf?ip=141.54.140.141&id=3053247&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=1013434628&CFTOKEN=57388310&__acm__=1512440574_5587a0b811ca5f89b6b1347d9a956084 [following]
+--2017-12-05 03:17:55--  http://delivery.acm.org/10.1145/3060000/3053247/ea3012-williams.pdf?ip=141.54.140.141&id=3053247&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=1013434628&CFTOKEN=57388310&__acm__=1512440574_5587a0b811ca5f89b6b1347d9a956084
+Resolving delivery.acm.org (delivery.acm.org)... 88.221.214.40, 88.221.214.58
+Connecting to delivery.acm.org (delivery.acm.org)|88.221.214.40|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 603912 (590K) [application/pdf]
+Saving to: ‘ft_gateway.cfm?id=3053247&ftid=1869733&dwn=1&CFID=1013434529&CFTOKEN=94016474’
+
+ft_gateway.cfm?id=3053247&ftid=1869733&dwn=1&CFID=10 100%[=====================================================================================================================>] 589,76K   918KB/s    in 0,6s
+
+2017-12-05 03:17:57 (918 KB/s) - ‘ft_gateway.cfm?id=3053247&ftid=1869733&dwn=1&CFID=1013434529&CFTOKEN=94016474’ saved [603912/603912]
+
+http://dl.acm.org/authorize?N35313 authorize?N35313
+--2017-12-05 03:18:18--  http://dl.acm.org/authorize?N35313
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize?N35313 [following]
+--2017-12-05 03:18:18--  https://dl.acm.org/authorize?N35313
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize.cfm?key=N35313 [following]
+--2017-12-05 03:18:19--  https://dl.acm.org/authorize.cfm?key=N35313
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: citation.cfm?id=3053267&CFID=837157752&CFTOKEN=57573169 [following]
+--2017-12-05 03:18:19--  https://dl.acm.org/citation.cfm?id=3053267&CFID=837157752&CFTOKEN=57573169
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘authorize?N35313’
+
+authorize?N35313                                         [  <=>                                                                                                                 ]  54,13K   119KB/s    in 0,5s
+
+2017-12-05 03:18:21 (119 KB/s) - ‘authorize?N35313’ saved [55425]
+
+ft_gateway.cfm?id=3053267&ftid=1869719&dwn=1&CFID=837157752&CFTOKEN=57573169
+--2017-12-05 03:19:12--  http://dl.acm.org/ft_gateway.cfm?id=3053267&ftid=1869719&dwn=1&CFID=837157752&CFTOKEN=57573169
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.56, 64.238.147.53
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053267&ftid=1869719&dwn=1&CFID=837157752&CFTOKEN=57573169 [following]
+--2017-12-05 03:19:12--  https://dl.acm.org/ft_gateway.cfm?id=3053267&ftid=1869719&dwn=1&CFID=837157752&CFTOKEN=57573169
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://dl.acm.org/ft_gateway.cfm?id=3053267&ftid=1869719&dwn=1 [following]
+--2017-12-05 03:19:13--  http://dl.acm.org/ft_gateway.cfm?id=3053267&ftid=1869719&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053267&ftid=1869719&dwn=1 [following]
+--2017-12-05 03:19:13--  https://dl.acm.org/ft_gateway.cfm?id=3053267&ftid=1869719&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://delivery.acm.org/10.1145/3060000/3053267/ea3019-wohn.pdf?ip=141.54.140.141&id=3053267&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=1013434813&CFTOKEN=82991280&__acm__=1512440654_6f15d71eee039318347c0eb8d1fd3a53 [following]
+--2017-12-05 03:19:14--  http://delivery.acm.org/10.1145/3060000/3053267/ea3019-wohn.pdf?ip=141.54.140.141&id=3053267&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=1013434813&CFTOKEN=82991280&__acm__=1512440654_6f15d71eee039318347c0eb8d1fd3a53
+Resolving delivery.acm.org (delivery.acm.org)... 88.221.214.58, 88.221.214.40
+Connecting to delivery.acm.org (delivery.acm.org)|88.221.214.58|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 875269 (855K) [application/pdf]
+Saving to: ‘ft_gateway.cfm?id=3053267&ftid=1869719&dwn=1&CFID=837157752&CFTOKEN=57573169’
+
+ft_gateway.cfm?id=3053267&ftid=1869719&dwn=1&CFID=83 100%[=====================================================================================================================>] 854,75K   868KB/s    in 1,0s
+
+2017-12-05 03:19:16 (868 KB/s) - ‘ft_gateway.cfm?id=3053267&ftid=1869719&dwn=1&CFID=837157752&CFTOKEN=57573169’ saved [875269/875269]
+
+http://dl.acm.org/authorize?N35314 authorize?N35314
+--2017-12-05 03:20:03--  http://dl.acm.org/authorize?N35314
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.56, 64.238.147.53
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize?N35314 [following]
+--2017-12-05 03:20:03--  https://dl.acm.org/authorize?N35314
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize.cfm?key=N35314 [following]
+--2017-12-05 03:20:04--  https://dl.acm.org/authorize.cfm?key=N35314
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: citation.cfm?id=3053240&CFID=1013434936&CFTOKEN=82671855 [following]
+--2017-12-05 03:20:05--  https://dl.acm.org/citation.cfm?id=3053240&CFID=1013434936&CFTOKEN=82671855
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘authorize?N35314’
+
+authorize?N35314                                         [  <=>                                                                                                                 ]  53,57K   134KB/s    in 0,4s
+
+2017-12-05 03:20:07 (134 KB/s) - ‘authorize?N35314’ saved [54857]
+
+ft_gateway.cfm?id=3053240&ftid=1869713&dwn=1&CFID=1013434936&CFTOKEN=82671855
+--2017-12-05 03:20:31--  http://dl.acm.org/ft_gateway.cfm?id=3053240&ftid=1869713&dwn=1&CFID=1013434936&CFTOKEN=82671855
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.56, 64.238.147.53
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053240&ftid=1869713&dwn=1&CFID=1013434936&CFTOKEN=82671855 [following]
+--2017-12-05 03:20:31--  https://dl.acm.org/ft_gateway.cfm?id=3053240&ftid=1869713&dwn=1&CFID=1013434936&CFTOKEN=82671855
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://dl.acm.org/ft_gateway.cfm?id=3053240&ftid=1869713&dwn=1 [following]
+--2017-12-05 03:20:32--  http://dl.acm.org/ft_gateway.cfm?id=3053240&ftid=1869713&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053240&ftid=1869713&dwn=1 [following]
+--2017-12-05 03:20:32--  https://dl.acm.org/ft_gateway.cfm?id=3053240&ftid=1869713&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://delivery.acm.org/10.1145/3060000/3053240/ea3027-yang.pdf?ip=141.54.140.141&id=3053240&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=1013435008&CFTOKEN=95632757&__acm__=1512440732_ec981ca17464a327ce34324be8223a57 [following]
+--2017-12-05 03:20:33--  http://delivery.acm.org/10.1145/3060000/3053240/ea3027-yang.pdf?ip=141.54.140.141&id=3053240&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=1013435008&CFTOKEN=95632757&__acm__=1512440732_ec981ca17464a327ce34324be8223a57
+Resolving delivery.acm.org (delivery.acm.org)... 88.221.214.40, 88.221.214.58
+Connecting to delivery.acm.org (delivery.acm.org)|88.221.214.40|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1253155 (1,2M) [application/pdf]
+Saving to: ‘ft_gateway.cfm?id=3053240&ftid=1869713&dwn=1&CFID=1013434936&CFTOKEN=82671855’
+
+ft_gateway.cfm?id=3053240&ftid=1869713&dwn=1&CFID=10 100%[=====================================================================================================================>]   1,19M  1,16MB/s    in 1,0s
+
+2017-12-05 03:20:34 (1,16 MB/s) - ‘ft_gateway.cfm?id=3053240&ftid=1869713&dwn=1&CFID=1013434936&CFTOKEN=82671855’ saved [1253155/1253155]
+
+http://dl.acm.org/authorize?N35325 authorize?N35325
+--2017-12-05 03:21:38--  http://dl.acm.org/authorize?N35325
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize?N35325 [following]
+--2017-12-05 03:21:39--  https://dl.acm.org/authorize?N35325
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize.cfm?key=N35325 [following]
+--2017-12-05 03:21:39--  https://dl.acm.org/authorize.cfm?key=N35325
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: citation.cfm?id=3053258&CFID=837158820&CFTOKEN=71484303 [following]
+--2017-12-05 03:21:40--  https://dl.acm.org/citation.cfm?id=3053258&CFID=837158820&CFTOKEN=71484303
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘authorize?N35325’
+
+authorize?N35325                                         [  <=>                                                                                                                 ]  54,30K   117KB/s    in 0,5s
+
+2017-12-05 03:21:42 (117 KB/s) - ‘authorize?N35325’ saved [55599]
+
+ft_gateway.cfm?id=3053258&ftid=1869728&dwn=1&CFID=837158820&CFTOKEN=71484303
+--2017-12-05 03:21:45--  http://dl.acm.org/ft_gateway.cfm?id=3053258&ftid=1869728&dwn=1&CFID=837158820&CFTOKEN=71484303
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053258&ftid=1869728&dwn=1&CFID=837158820&CFTOKEN=71484303 [following]
+--2017-12-05 03:21:45--  https://dl.acm.org/ft_gateway.cfm?id=3053258&ftid=1869728&dwn=1&CFID=837158820&CFTOKEN=71484303
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://dl.acm.org/ft_gateway.cfm?id=3053258&ftid=1869728&dwn=1 [following]
+--2017-12-05 03:21:46--  http://dl.acm.org/ft_gateway.cfm?id=3053258&ftid=1869728&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053258&ftid=1869728&dwn=1 [following]
+--2017-12-05 03:21:47--  https://dl.acm.org/ft_gateway.cfm?id=3053258&ftid=1869728&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://delivery.acm.org/10.1145/3060000/3053258/ea3034-yao.pdf?ip=141.54.140.141&id=3053258&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=837158859&CFTOKEN=59379644&__acm__=1512440806_75011de64f7523f2a6b9a010326a611c [following]
+--2017-12-05 03:21:48--  http://delivery.acm.org/10.1145/3060000/3053258/ea3034-yao.pdf?ip=141.54.140.141&id=3053258&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=837158859&CFTOKEN=59379644&__acm__=1512440806_75011de64f7523f2a6b9a010326a611c
+Resolving delivery.acm.org (delivery.acm.org)... 88.221.214.40, 88.221.214.58
+Connecting to delivery.acm.org (delivery.acm.org)|88.221.214.40|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1317522 (1,3M) [application/pdf]
+Saving to: ‘ft_gateway.cfm?id=3053258&ftid=1869728&dwn=1&CFID=837158820&CFTOKEN=71484303’
+
+ft_gateway.cfm?id=3053258&ftid=1869728&dwn=1&CFID=83 100%[=====================================================================================================================>]   1,26M  1013KB/s    in 1,3s
+
+2017-12-05 03:21:50 (1013 KB/s) - ‘ft_gateway.cfm?id=3053258&ftid=1869728&dwn=1&CFID=837158820&CFTOKEN=71484303’ saved [1317522/1317522]
+
+http://dl.acm.org/authorize?N35326 authorize?N35326
+--2017-12-05 03:21:53--  http://dl.acm.org/authorize?N35326
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize?N35326 [following]
+--2017-12-05 03:21:53--  https://dl.acm.org/authorize?N35326
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize.cfm?key=N35326 [following]
+--2017-12-05 03:21:53--  https://dl.acm.org/authorize.cfm?key=N35326
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: citation.cfm?id=3053228&CFID=837158896&CFTOKEN=49055736 [following]
+--2017-12-05 03:21:54--  https://dl.acm.org/citation.cfm?id=3053228&CFID=837158896&CFTOKEN=49055736
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘authorize?N35326’
+
+authorize?N35326                                         [  <=>                                                                                                                 ]  55,72K   132KB/s    in 0,4s
+
+2017-12-05 03:21:56 (132 KB/s) - ‘authorize?N35326’ saved [57059]
+
+ft_gateway.cfm?id=3053228&ftid=1869781&dwn=1&CFID=837158896&CFTOKEN=49055736
+--2017-12-05 03:22:52--  http://dl.acm.org/ft_gateway.cfm?id=3053228&ftid=1869781&dwn=1&CFID=837158896&CFTOKEN=49055736
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053228&ftid=1869781&dwn=1&CFID=837158896&CFTOKEN=49055736 [following]
+--2017-12-05 03:22:52--  https://dl.acm.org/ft_gateway.cfm?id=3053228&ftid=1869781&dwn=1&CFID=837158896&CFTOKEN=49055736
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://dl.acm.org/ft_gateway.cfm?id=3053228&ftid=1869781&dwn=1 [following]
+--2017-12-05 03:22:53--  http://dl.acm.org/ft_gateway.cfm?id=3053228&ftid=1869781&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ft_gateway.cfm?id=3053228&ftid=1869781&dwn=1 [following]
+--2017-12-05 03:22:53--  https://dl.acm.org/ft_gateway.cfm?id=3053228&ftid=1869781&dwn=1
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://delivery.acm.org/10.1145/3060000/3053228/ea3041-yeo.pdf?ip=141.54.140.141&id=3053228&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=837159217&CFTOKEN=15560801&__acm__=1512440874_6616b8642ef0e18a806517900220ef5c [following]
+--2017-12-05 03:22:54--  http://delivery.acm.org/10.1145/3060000/3053228/ea3041-yeo.pdf?ip=141.54.140.141&id=3053228&acc=ACTIVE%20SERVICE&key=2BA2C432AB83DA15%2E6FCCE83FEFD1588C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=837159217&CFTOKEN=15560801&__acm__=1512440874_6616b8642ef0e18a806517900220ef5c
+Resolving delivery.acm.org (delivery.acm.org)... 88.221.214.40, 88.221.214.58
+Connecting to delivery.acm.org (delivery.acm.org)|88.221.214.40|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1965668 (1,9M) [application/pdf]
+Saving to: ‘ft_gateway.cfm?id=3053228&ftid=1869781&dwn=1&CFID=837158896&CFTOKEN=49055736’
+
+ft_gateway.cfm?id=3053228&ftid=1869781&dwn=1&CFID=83 100%[=====================================================================================================================>]   1,87M  1,13MB/s    in 1,7s
+
+2017-12-05 03:22:56 (1,13 MB/s) - ‘ft_gateway.cfm?id=3053228&ftid=1869781&dwn=1&CFID=837158896&CFTOKEN=49055736’ saved [1965668/1965668]
+
+http://dl.acm.org/authorize?N35327 authorize?N35327
+--2017-12-05 03:24:13--  http://dl.acm.org/authorize?N35327
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... failed: Connection timed out.
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2017-12-05 03:41:53--  (try: 2)  http://dl.acm.org/authorize?N35327
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... failed: Connection timed out.
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... failed: Connection timed out.
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2017-12-05 04:01:11--  (try: 3)  http://dl.acm.org/authorize?N35327
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... failed: Connection timed out.
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.56, 64.238.147.53
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... failed: Connection timed out.
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... failed: Connection timed out.
+Retrying.
+
+--2017-12-05 04:07:36--  (try: 4)  http://dl.acm.org/authorize?N35327
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... failed: Connection timed out.
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... failed: Connection timed out.
+Retrying.
+
+--2017-12-05 04:11:54--  (try: 5)  http://dl.acm.org/authorize?N35327
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... failed: Connection timed out.
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... failed: Connection timed out.
+Retrying.
+
+--2017-12-05 04:16:14--  (try: 6)  http://dl.acm.org/authorize?N35327
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... failed: Connection timed out.
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... failed: Connection timed out.
+Retrying.
+
+--2017-12-05 04:20:34--  (try: 7)  http://dl.acm.org/authorize?N35327
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... failed: Connection timed out.
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... failed: Connection timed out.
+Retrying.
+
+--2017-12-05 04:24:56--  (try: 8)  http://dl.acm.org/authorize?N35327
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... failed: Connection timed out.
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2017-12-05 04:42:43--  (try: 9)  http://dl.acm.org/authorize?N35327
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2017-12-05 04:46:05--  (try:10)  http://dl.acm.org/authorize?N35327
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... failed: Connection timed out.
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize?N35327 [following]
+--2017-12-05 04:48:20--  https://dl.acm.org/authorize?N35327
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/authorize.cfm?key=N35327 [following]
+--2017-12-05 04:48:23--  https://dl.acm.org/authorize.cfm?key=N35327
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: citation.cfm?id=3053203&CFID=837159323&CFTOKEN=41549578 [following]
+--2017-12-05 04:48:25--  https://dl.acm.org/citation.cfm?id=3053203&CFID=837159323&CFTOKEN=41549578
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘authorize?N35327’
+
+authorize?N35327                                         [  <=>                                                                                                                 ]  16,00K   137 B/s    in 2m 0s
+
+2017-12-05 04:53:38 (137 B/s) - ‘authorize?N35327’ saved [16384]
+
+
+--2017-12-05 04:54:17--  http://dl.acm.org/
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.56, 64.238.147.53
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... failed: Connection timed out.
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2017-12-05 05:12:29--  (try: 2)  http://dl.acm.org/
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... failed: Connection timed out.
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... failed: Connection timed out.
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... failed: Connection timed out.
+Retrying.
+
+--2017-12-05 05:18:53--  (try: 3)  http://dl.acm.org/
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... failed: Connection timed out.
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... failed: Connection timed out.
+Retrying.
+
+--2017-12-05 05:23:11--  (try: 4)  http://dl.acm.org/
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2017-12-05 05:25:22--  (try: 5)  http://dl.acm.org/
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... failed: Connection timed out.
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... failed: Connection timed out.
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.56, 64.238.147.53
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... failed: Connection timed out.
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... failed: Connection timed out.
+Retrying.
+
+--2017-12-05 05:33:56--  (try: 6)  http://dl.acm.org/
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2017-12-05 05:50:06--  (try: 7)  http://dl.acm.org/
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... failed: Connection timed out.
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... failed: Connection timed out.
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... failed: Connection timed out.
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2017-12-05 06:11:37--  (try: 8)  http://dl.acm.org/
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... failed: Connection timed out.
+Resolving dl.acm.org (dl.acm.org)... 64.238.147.53, 64.238.147.56
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.53|:80... failed: Connection timed out.
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2017-12-05 06:31:15--  (try: 9)  http://dl.acm.org/
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.acm.org/ [following]
+--2017-12-05 06:31:15--  https://dl.acm.org/
+Connecting to dl.acm.org (dl.acm.org)|64.238.147.56|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘index.html’
+
+index.html                                               [  <=>                                                                                                                 ]  49,19K   118KB/s    in 0,4s
+
+2017-12-05 06:31:16 (118 KB/s) - ‘index.html’ saved [50372]
+
+[floe@flunder:~/acm]
+[0] $
+[floe@flunder:~/acm]
+[0] $ ls index.html ^C
+[floe@flunder:~/acm]
+[130] $ rm index.html
+[floe@flunder:~/acm]
+[0] $
